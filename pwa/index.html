@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Consultas sobre Buenas Prácticas Ganaderas - Funciona sin conexión">
+    <meta name="theme-color" content="#2D5016">
+    
+    <title>BPG Consultas - Offline</title>
+    
+    <!-- PWA -->
+    <link rel="manifest" href="manifest.json">
+    <link rel="icon" type="image/png" href="icons/icon-192.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="BPG Consultas">
+    <link rel="apple-touch-icon" href="icons/icon-192.png">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <h1>🐄 BPG Consultas</h1>
+            <p class="subtitle">Buenas Prácticas Ganaderas</p>
+            <div class="status-bar">
+                <span class="status online" id="status">
+                    <span class="status-dot"></span>
+                    <span id="status-text">Conectado</span>
+                </span>
+                <button class="install-btn" id="install-btn" style="display: none;">
+                    📲 Instalar App
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+        <div class="container">
+            <!-- Query Form -->
+            <section class="query-section">
+                <h2>💬 Consulta al Asistente BPG</h2>
+                <form id="query-form" class="query-form">
+                    <div class="form-group">
+                        <label for="query-input">Pregunta:</label>
+                        <textarea 
+                            id="query-input" 
+                            name="query" 
+                            rows="3" 
+                            placeholder="Ej: ¿Qué es el bienestar animal?"
+                            required
+                            maxlength="500"
+                        ></textarea>
+                        <small class="char-count">
+                            <span id="char-count">0</span>/500
+                        </small>
+                    </div>
+                    
+                    <!-- Opciones Avanzadas (colapsable) -->
+                    <details class="advanced-options">
+                        <summary>⚙️ Opciones Avanzadas</summary>
+                        <div class="options-grid">
+                            <div class="form-group">
+                                <label for="strategy">Estrategia:</label>
+                                <select id="strategy" name="strategy">
+                                    <option value="standard">Standard (Balanceada)</option>
+                                    <option value="concise">Concise (Rápida)</option>
+                                    <option value="fewshot">Few-Shot (Ejemplos)</option>
+                                    <option value="technical">Technical (Técnica)</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="k">Documentos (k):</label>
+                                <input type="number" id="k" name="k" min="1" max="10" value="5">
+                            </div>
+                        </div>
+                    </details>
+                    
+                    <button type="submit" class="btn btn-primary" id="submit-btn">
+                        <span class="btn-text">Consultar</span>
+                        <span class="btn-loader" style="display: none;">⏳ Procesando...</span>
+                    </button>
+                </form>
+            </section>
+
+            <!-- Response Section -->
+            <section class="response-section" id="response-section" style="display: none;">
+                <h2>🤖 Respuesta</h2>
+                <div class="response-card" id="response-card">
+                    <div class="response-content" id="response-content"></div>
+                    <div class="response-meta" id="response-meta"></div>
+                </div>
+            </section>
+
+            <!-- History Section -->
+            <section class="history-section">
+                <div class="section-header">
+                    <h2>📚 Historial (Offline)</h2>
+                    <button class="btn btn-secondary btn-small" id="clear-history">
+                        🗑️ Limpiar
+                    </button>
+                </div>
+                <div id="history-list" class="history-list">
+                    <p class="empty-state">No hay consultas guardadas</p>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>© 2025 Sistema RAG BPG v2.1</p>
+            <p class="footer-links">
+                <a href="#" id="about-link">Acerca de</a> | 
+                <a href="#" id="help-link">Ayuda</a> | 
+                <a href="/docs" target="_blank">API Docs</a>
+            </p>
+        </div>
+    </footer>
+
+    <!-- Modal About -->
+    <div class="modal" id="about-modal">
+        <div class="modal-content">
+            <span class="modal-close">&times;</span>
+            <h2>Acerca de BPG Consultas</h2>
+            <p><strong>Versión:</strong> 2.1 PWA</p>
+            <p><strong>Sistema:</strong> RAG (Retrieval-Augmented Generation)</p>
+            <p><strong>Funcionalidad Offline:</strong> Sí ✅</p>
+            <p><strong>Datos:</strong> 81 documentos de manuales BPG</p>
+            <p><strong>Modelo:</strong> llama3.1:8b</p>
+            <hr>
+            <p>Esta aplicación funciona sin conexión a internet, ideal para uso en el campo.</p>
+        </div>
+    </div>
+
+    <!-- Toast Notifications -->
+    <div id="toast-container"></div>
+
+    <!-- Scripts -->
+    <script src="js/db.js"></script>
+    <script src="js/app.js"></script>
+    
+    <!-- Service Worker Registration -->
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('sw.js')
+                    .then(reg => console.log('✅ Service Worker registrado'))
+                    .catch(err => console.error('❌ Service Worker falló:', err));
+            });
+        }
+    </script>
+</body>
+</html>
