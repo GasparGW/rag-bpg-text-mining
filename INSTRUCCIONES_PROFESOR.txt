@@ -1,0 +1,68 @@
+INSTRUCCIONES PARA EL PROFESOR
+================================
+
+Hola Profesor,
+
+Este es mi proyecto final para la materia Text Mining.
+
+REPOSITORIO GITHUB:
+https://github.com/GasparGW/rag-bpg-text-mining
+
+DOCUMENTOS CLAVE PARA EVALUAR:
+1. README_ACADEMICO.md - Descripción académica completa
+2. ENTREGA_ACADEMICA.md - Documento formal de entrega
+3. OPTIMIZATION_REPORT.md - Análisis de optimizaciones
+4. notebooks/ - Jupyter notebooks con experimentos
+
+DEMO RÁPIDA (15 minutos):
+
+1. Clonar repositorio:
+   git clone https://github.com/GasparGW/rag-bpg-text-mining.git
+   cd rag-bpg-text-mining
+
+2. Instalar dependencias:
+   python3 -m venv venv
+   source venv/bin/activate  # En Windows: venv\Scripts\activate
+   pip install -r requirements.txt
+
+3. Ver análisis (notebooks):
+   jupyter lab notebooks/
+   # Orden: 01_data_exploration → 02_rag_optimization → 03_evaluation
+
+4. (OPCIONAL) Probar aplicación funcional:
+   # Requiere Ollama instalado: https://ollama.ai
+   ollama pull llama3.1:8b
+   ollama pull nomic-embed-text
+   
+   # Terminal 1 - API:
+   python3 -m uvicorn api.main:app --port 8000
+   
+   # Terminal 2 - PWA:
+   python3 -m http.server 8080 --directory pwa
+   
+   # Abrir: http://localhost:8080
+
+RESULTADOS PRINCIPALES:
+- Precisión: 85%
+- Recall: 90%
+- F1-Score: 0.87
+- Mejora vs baseline: +30%
+
+TÉCNICAS TEXT MINING APLICADAS:
+✅ Preprocessing (stopwords personalizadas)
+✅ Chunking optimizado (400 tokens)
+✅ Embeddings semánticos (nomic-embed-text)
+✅ Retrieval híbrido (ChromaDB + reranking)
+✅ Evaluación cuantitativa completa
+
+INNOVACIONES:
+- PWA offline-first para zonas rurales
+- Sistema RAG optimizado para dominio específico
+- 4 estrategias de prompting contextuales
+
+Cualquier duda durante la corrección:
+Email: [TU EMAIL AQUÍ]
+
+Muchas gracias por su tiempo!
+Gaspar González Wulfsohn
+
