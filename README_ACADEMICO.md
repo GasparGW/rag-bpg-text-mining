@@ -365,7 +365,7 @@ python scripts/evaluate_rag.py
 **GitHub:** GasparGW
 
 **Materia:** Text Mining  
-**Profesor:** 
+**Profesor:** Hernán Merlino
 **Fecha entrega:** 3 nov 2025
 
 ---
