@@ -348,6 +348,384 @@ python scripts/evaluate_rag.py
 - [ ] Graph RAG para consultas relacionales
 - [ ] Multi-modal RAG (imágenes de manuales)
 - [ ] Active learning con feedback usuarios
+## 🚀 Deployment a Producción
+
+### Contexto Actual
+
+**Estado:** Sistema funcional localmente (localhost)  
+**Limitación:** No accesible para productores en el campo  
+**Objetivo:** App instalable que funcione offline en celulares
+
+---
+
+### Arquitectura Híbrida Inteligente (Recomendada)
+
+**Concepto:** Pre-cachear consultas comunes + API para casos raros
+```
+┌─────────────────────────────────────────────┐
+│  Productor (Celular - Campo SIN señal)    │
+│  ┌───────────────────────────────────┐    │
+│  │ PWA Instalada                      │    │
+│  │ • 500 respuestas pre-cacheadas    │    │
+│  │ • Similarity matching (30% umbral)│    │
+│  │ • 90% consultas = instantáneas    │    │
+│  └───────────────────────────────────┘    │
+└─────────────────┬───────────────────────────┘
+                  │
+                  │ Solo para consultas NUEVAS
+                  │ (10% de los casos)
+                  ▼
+┌─────────────────────────────────────────────┐
+│  Vercel Edge Functions (Serverless)        │
+│  • Auto-scale                               │
+│  • $5-15/mes para 500 usuarios             │
+│  • Respuesta: 5-10s                        │
+└─────────────────┬───────────────────────────┘
+                  │
+                  ▼
+┌─────────────────────────────────────────────┐
+│  RunPod GPU (On-Demand)                     │
+│  • Solo cuando hay consulta nueva          │
+│  • $0.30/hora                               │
+│  • Se apaga automáticamente                │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+### Por Qué Esta Arquitectura
+
+#### Ventajas:
+
+1. **Costo ultra-bajo:** $10-20/mes (vs $50-100/mes tradicional)
+   - PWA: Gratis (Vercel)
+   - Serverless: Pay-per-use
+   - GPU: Solo cuando necesita
+
+2. **Experiencia usuario óptima:**
+   - 90% consultas = instantáneas (0.1s)
+   - Funciona 100% offline para casos comunes
+   - Similarity matching inteligente
+
+3. **Escalable:**
+   - 10 usuarios = $10/mes
+   - 1000 usuarios = $30/mes
+   - Auto-scale sin configuración
+
+4. **Profesional:**
+   - Edge computing moderno
+   - HTTPS automático
+   - CDN global
+
+---
+
+### Implementación
+
+#### Fase 1: Pre-generar Cache (1 día)
+```python
+# scripts/generate_common_queries.py
+
+# 1. Identificar 500 preguntas más comunes
+common_queries = [
+    # Bienestar Animal (100)
+    "¿Qué es el bienestar animal?",
+    "¿Cómo evaluar bienestar animal?",
+    "Indicadores de bienestar animal",
+    # ... 97 más
+    
+    # Vacunación (80)
+    "¿Cómo vacunar ganado?",
+    "¿Qué vacunas son obligatorias?",
+    # ... 78 más
+    
+    # Transporte (70)
+    "¿Cómo preparar animales para transporte?",
+    # ... 69 más
+    
+    # ... 250 más categorizadas
+]
+
+# 2. Generar respuestas offline
+from src.rag_bpg_ollama import RAGBPGOllama
+
+rag = RAGBPGOllama()
+cache = {}
+
+for query in common_queries:
+    print(f"Generando: {query}")
+    response = rag.query(query)
+    cache[query] = {
+        "answer": response["answer"],
+        "keywords": extract_keywords(query),
+        "category": categorize(query)
+    }
+
+# 3. Guardar en PWA
+import json
+with open('pwa/cache.json', 'w') as f:
+    json.dump(cache, f, ensure_ascii=False, indent=2)
+
+print(f"✅ {len(cache)} respuestas pre-generadas")
+```
+
+#### Fase 2: Modificar PWA (2 horas)
+```javascript
+// pwa/js/app.js
+
+// Cargar cache al iniciar
+let CACHE = {};
+
+async function loadCache() {
+    const response = await fetch('cache.json');
+    CACHE = await response.json();
+    console.log(`✅ ${Object.keys(CACHE).length} respuestas cargadas`);
+}
+
+// Mejorar queryOffline
+async function queryOffline(query) {
+    // 1. Buscar match exacto
+    if (CACHE[query]) {
+        return {
+            answer: CACHE[query].answer,
+            source: 'cache-exact',
+            cacheNote: '📦 Respuesta pre-cargada'
+        };
+    }
+    
+    // 2. Buscar similarity (ya implementado)
+    const keywords = extractKeywords(query);
+    let bestMatch = null;
+    let bestScore = 0;
+    
+    for (const [cachedQuery, data] of Object.entries(CACHE)) {
+        const score = calculateSimilarity(keywords, data.keywords);
+        if (score > bestScore && score > 0.3) {
+            bestScore = score;
+            bestMatch = data;
+        }
+    }
+    
+    if (bestMatch) {
+        return {
+            answer: bestMatch.answer,
+            source: 'cache-similar',
+            similarity: bestScore,
+            cacheNote: `📦 Respuesta similar (${Math.round(bestScore*100)}% match)`
+        };
+    }
+    
+    // 3. Si no hay match → requiere internet
+    throw new Error('Consulta no disponible offline. Conecta a WiFi.');
+}
+
+// Inicializar
+document.addEventListener('DOMContentLoaded', async () => {
+    await loadCache();
+    // ... resto del código
+});
+```
+
+#### Fase 3: Deploy Frontend (10 min)
+```bash
+# 1. Build PWA con cache
+cd pwa
+ls -lh cache.json  # Verificar ~5-10MB
+
+# 2. Deploy a Vercel
+npm i -g vercel
+vercel --prod
+
+# Resultado: https://bpg-consultas.vercel.app
+```
+
+#### Fase 4: Serverless API (30 min)
+```python
+# api/serverless/query.py (Vercel Function)
+
+from src.rag_bpg_ollama import RAGBPGOllama
+import json
+
+# Inicializar RAG (cold start ~5s)
+rag = RAGBPGOllama()
+
+def handler(request):
+    data = json.loads(request.body)
+    query = data.get('query')
+    
+    # Generar respuesta
+    response = rag.query(query)
+    
+    # TODO: Guardar en cache para próxima vez
+    # save_to_cache(query, response)
+    
+    return {
+        'statusCode': 200,
+        'body': json.dumps(response)
+    }
+```
+```json
+// vercel.json
+{
+  "functions": {
+    "api/serverless/*.py": {
+      "runtime": "python3.9",
+      "maxDuration": 60
+    }
+  }
+}
+```
+
+#### Fase 5: GPU On-Demand (Opcional)
+```python
+# Si Vercel serverless es lento:
+# Conectar a RunPod GPU via API
+
+import requests
+
+def query_via_runpod(query):
+    # Inicia pod si está apagado
+    pod_id = start_pod_if_needed()
+    
+    # Consulta
+    response = requests.post(
+        f'https://{pod_id}.runpod.io/query',
+        json={'query': query}
+    )
+    
+    # Apaga después de 5 min inactividad
+    schedule_shutdown(pod_id, delay=300)
+    
+    return response.json()
+```
+
+---
+
+### Flujo Usuario Real
+
+#### Instalación (Primera vez):
+```
+1. Productor abre: bpg-consultas.vercel.app
+2. Browser: "Instalar BPG Consultas?" 
+3. Click "Instalar"
+4. Descarga cache.json (5-10MB, ~30s con 3G)
+5. Ícono aparece en pantalla
+```
+
+#### Uso en campo (SIN señal):
+```
+Usuario: "¿Cómo vacunar ganado?"
+  ↓
+App busca en cache local
+  ↓ Match exacto en 500 pre-generadas
+Respuesta instantánea (0.1s) ✅
+
+Usuario: "¿Cómo aplicar vacunas a vacas?"
+  ↓
+Similarity: 75% match con "¿Cómo vacunar ganado?"
+  ↓
+Usa respuesta similar (0.1s) ✅
+
+Usuario: "¿Cómo exportar a China?" (raro)
+  ↓
+No hay match en cache
+  ↓
+Error: "Consulta requiere conexión"
+```
+
+#### Uso con WiFi:
+```
+Usuario: "¿Cómo exportar a China?"
+  ↓
+Request a Vercel serverless
+  ↓
+Genera respuesta (10-30s)
+  ↓
+Guarda en cache local
+  ↓
+Próxima vez = offline ✅
+```
+
+---
+
+### Costos Reales
+
+#### Por Escala:
+
+| Usuarios | Consultas/mes | Costo Vercel | Costo GPU | Total/mes |
+|----------|---------------|--------------|-----------|-----------|
+| 10 | 300 (30 nuevas) | $0 | $1 | **$1** |
+| 50 | 1,500 (150 nuevas) | $5 | $5 | **$10** |
+| 500 | 15,000 (1,500 nuevas) | $10 | $15 | **$25** |
+| 1,000 | 30,000 (3,000 nuevas) | $15 | $20 | **$35** |
+
+**Por usuario:** $0.03-0.05/mes
+
+**Setup inicial:** $0 (todo serverless)
+
+---
+
+### Ventajas vs Alternativas
+
+| Aspecto | Híbrido | VPS Tradicional |
+|---------|---------|-----------------|
+| **Costo 50 usuarios** | $10/mes | $50/mes |
+| **Offline %** | 90% instantáneo | Requiere siempre API |
+| **Latencia offline** | 0.1s | N/A |
+| **Latencia online** | 10-30s | 5-10s |
+| **Escalabilidad** | Auto | Manual |
+| **Mantenimiento** | 0 horas/mes | 2-4 horas/mes |
+
+---
+
+### Métricas Esperadas
+
+**Después de 1 mes con 50 usuarios:**
+- 90% consultas resueltas offline (instantáneo)
+- 10% consultas nuevas (requieren API)
+- Cache crece a ~800 respuestas
+- Costo: $8-12/mes
+
+**Después de 6 meses:**
+- 95% consultas offline (cache completo)
+- Cache: ~1,200 respuestas
+- Costo: $10-15/mes (estable)
+
+---
+
+### Limitaciones
+
+1. **Cache inicial:** Descarga 5-10MB (30s con 3G)
+2. **Consultas muy raras:** Necesitan internet primera vez
+3. **Cold start:** Primera consulta nueva ~10-30s
+
+**Soluciones:**
+- Pre-instalar en WiFi antes de ir al campo
+- Cache crece con uso → cada vez más offline
+- Background sync cuando hay WiFi
+
+---
+
+### Recomendación Implementación
+
+**Para proyecto académico:**
+- ✅ Documentar esta arquitectura
+- ✅ Demostrar funcional en local
+- ✅ Mencionar como solución profesional
+
+
+
+---
+
+### Documentación Técnica
+
+- **Vercel Docs:** https://vercel.com/docs/functions
+- **Serverless Python:** https://vercel.com/docs/functions/runtimes/python
+- **RunPod API:** https://docs.runpod.io
+- **PWA Cache Strategies:** https://web.dev/offline-cookbook/
+
+---
+
+
 
 ### Expansión
 
