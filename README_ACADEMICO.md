@@ -340,7 +340,11 @@ python scripts/evaluate_rag.py
 
 ### Mejoras Técnicas
 
-- [ ] Fine-tuning llama3.1 con feedback específico BPG
+- [ ] **Fine-tuning llama3.1 con dataset BPG específico**
+  - Crear corpus 500-1000 pares pregunta-respuesta
+  - LoRA fine-tuning (4-8 horas GPU)
+  - Evaluación: +10-15% precisión estimada
+- [ ] Stopwords personalizadas (475 palabras BPG específicas)
 - [ ] Graph RAG para consultas relacionales
 - [ ] Multi-modal RAG (imágenes de manuales)
 - [ ] Active learning con feedback usuarios
@@ -355,14 +359,14 @@ python scripts/evaluate_rag.py
 
 ## 👤 Autor
 
-**[Tu nombre completo]**  
-**Email:** [tu-email]  
-**LinkedIn:** [tu-perfil]  
-**GitHub:** [tu-usuario]
+**[Gaspar Gonzalez Wulfsohn]**  
+**Email:** gaspargw@gmail.com
+**LinkedIn:** - 
+**GitHub:** GasparGW
 
 **Materia:** Text Mining  
-**Profesor:** [Nombre profesor]  
-**Fecha entrega:** [Fecha]
+**Profesor:** 
+**Fecha entrega:** 3 nov 2025
 
 ---
 
