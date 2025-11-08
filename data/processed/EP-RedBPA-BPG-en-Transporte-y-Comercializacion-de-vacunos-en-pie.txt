@@ -1,0 +1,1291 @@
+0
+Red BPA - Entidades miembro
+ESTE DOCUMENTO ES EL RESULTADO DEL TRABAJO CONJUNTO ENTRE LA COMISIÓN DE
+GANADERÍA Y LA COMISIÓN DE LECHERÍA DE LA RED DE BUENAS PRÁCTICAS
+AGROPECUARIAS.
+Grupo de escritura. Participantes
+Alicia Deyheralde - MAGYP
+Andrea Karina Cancino - INTA
+Carlos Pacífico – CCPP
+Carlos Scena - FVET-UBA
+Débora Racciatti - SENASA
+Gabriela Grigioni – INTA
+Joaquín Domínguez Lemoine - SRA
+Juan Carlos Batista – CCPP
+José Ibargoyen – Min. Desarrollo Agrario PBA
+Karina Gotta – Diseño – CAF
+Magdalena Fernández – CREA
+Marcelo Salgado - CAMYA
+Natalia Aguilar - INTA
+Solange Preuss – CAF
+Tomás Hardt – CCPP
+1
+ÍNDICE
+¿QUÉ SON LAS BUENAS PRÁCTICAS GANADERAS DE VACUNOS? 3
+¿CUÁL ES EL OBJETIVO DE LA GUÍA BPG EN EL TRANSPORTE Y COMERCIALIZACIÓN
+DE VACUNOS EN PIE? 4
+¿A QUIÉN ESTÁ DIRIGIDA ESTA GUÍA? ¿CÓMO ESTÁ ORGANIZADA ESTA GUÍA? 5
+PRODUCTOR 6
+Planificación y seguimiento
+Personal
+Infraestructura
+Salud Animal
+Manejo en el Despacho de animales
+Manejo en la Recepción de animales (cuando el productor es quien recibe)
+RESPONSABLE SOBRE EL PREDIO DESTINADO A FERIAS O EVENTOS
+CONCENTRADORES DE ANIMALES 13
+Normativa
+Infraestructura
+RESPONSABLE SOBRE LA GESTIÓN DE EVENTOS COMERCIALES CON
+CONCENTRACIÓN DE ANIMALES - REMATES FERIA 17
+Normativa
+Planificación y seguimiento
+Personal
+Transporte
+Infraestructura
+Manejo
+MATARIFE 23
+Normativa
+Planificación y seguimiento
+Personal
+PLANTA DE FAENA 25
+Normativa
+Planificación y seguimiento
+Personal
+Transporte
+Infraestructura
+Manejo
+TRANSPORTISTA 31
+Normativa
+Planificación y seguimiento
+Personal
+Características del transporte
+Manejo
+TRAZABILIDAD 37
+GLOSARIO 40
+ANEXO 1 - SISTEMA DE TRAZABILIDAD OBLIGATORIO 41
+2
+¿QUÉ SON LAS BUENAS PRÁCTICAS GANADERAS DE VACUNOS?
+Se entiende por Buenas Prácticas Ganaderas (BPG) de vacunos a todas las
+acciones involucradas en la producción ganadera, su transporte y
+comercialización en pos de obtener productos de calidad, que promuevan la
+sustentabilidad social, ambiental y económica del sistema.
+Son el resultado del trabajo conjunto de la comunidad de interesados sobre
+cuáles son las mejores prácticas de acuerdo con el conocimiento disponible.
+Debido al avance del conocimiento científico y a las modificaciones de las
+demandas de la sociedad, las BPG son dinámicas y, por lo tanto, se recomienda
+su actualización periódica.
+La implementación de las BPG desafía a los distintos actores a la búsqueda de la
+excelencia a través de la definición de objetivos, protocolos y acciones,
+estableciendo indicadores con los que luego se evaluarán las mismas.
+Incorporar BPG colabora como guía en el ordenamiento de los procesos
+permitiendo establecer niveles progresivos de adopción, facilitando el aprendizaje
+y la mejora sistemática y continua.
+Se destaca la importancia de la implementación de BPG desde el inicio de la
+producción y en cada una de las etapas para evitar o disminuir inconvenientes y
+riesgos difíciles o imposibles de revertir.
+El cumplimiento de la normativa vigente es condición necesaria para comenzar a
+trabajar en BPG y BPL. Es responsabilidad de la persona interesada en su
+implementación, el conocimiento y seguimiento de la normativa que corresponda
+a su área.
+3
+¿CUÁL ES EL OBJETIVO DE LA GUÍA BPG EN EL TRANSPORTE Y
+COMERCIALIZACIÓN DE VACUNOS EN PIE?
+Uno de los objetivos es promover y facilitar la implementación de buenas
+prácticas ganaderas de vacunos en pie durante los procesos de transporte y
+comercialización que resulten en la obtención de productos de calidad en una
+forma sostenible, considerando las dimensiones económica, ambiental y social.
+Asimismo, busca dar una base para cada uno de los actores, incorporando una
+mirada integral del funcionamiento sustentable de toda la cadena y preservando
+la calidad de origen. Para ello, ofrece un marco, de qué hacer, con la posibilidad
+de llevarlo a la práctica según las particularidades de cada región, actor/es y
+características de los distintos sistemas.
+Además, esta guía enumera las distintas acciones para trabajar con BPG en el
+transporte y la comercialización de vacunos en pie. Es un documento dinámico y
+puede enriquecerse con particularidades de cada sistema productivo. Trata lo
+concerniente a las BPG en los canales comerciales y de transporte desde el
+productor hasta el momento previo a la faena de los animales, sin incluir los
+detalles de la transacción comercial.
+Los aspectos relacionados a la producción primaria se abordan en “Buenas
+Prácticas Ganaderas: Guía para la implementación en la producción de ganado
+vacuno de carne” y “Buenas Prácticas Lecheras. Guía para la implementación en
+la producción de leche bovina”.
+4
+¿A QUIÉN ESTÁ DIRIGIDA ESTA GUÍA?
+Esta guía está dirigida a los actores involucrados en el transporte y la
+comercialización de ganado vacuno en pie desde su origen hasta el arribo a
+planta de faena.
+Fig. 1. Mapa de actores de la cadena ganadera y sitios.
+Se detallan los distintos actores desarrollados en esta guía y sus posibles interacciones, desde el
+establecimiento de origen del animal, hacia sus destinos (otro establecimiento productivo a
+campo, remate feria, planta de faena, entre otros).
+¿CÓMO ESTÁ ORGANIZADA ESTA GUÍA?
+La guía está organizada en función de los actores involucrados en la cadena de
+transporte y comercialización.
+Se presenta cada actor, con sus BPG asociadas y se mencionan también los
+aspectos a considerar al momento de interactuar con otros actores.
+Finalmente, se propone un capítulo con conceptos generales sobre la trazabilidad
+en la cadena, tanto la establecida por normativa como la trazabilidad de
+características especiales de interés.
+5
+PRODUCTOR
+En este capítulo se amplían y detallan los requisitos pertinentes al transporte y
+comercialización de vacunos en pie dando continuidad los documentos “Buenas
+Prácticas Ganaderas: guía para la implementación en la producción de vacunos
+de carne” y “Buenas Prácticas Lecheras. Guía para la implementación en la
+producción de leche bovina”.
+Se enumeran las distintas acciones específicas, que el productor de vacunos
+debe llevar adelante en el proceso de comercialización y transporte de animales,
+para mantener una producción sostenible, considerando las dimensiones
+económica, ambiental y social.
+Planificación y seguimiento
+Una planificación adecuada es un factor clave al momento de realizar una
+operación exitosa, tanto desde el punto de vista comercial como para promover el
+bienestar y la seguridad de las personas, así como el cuidado del ambiente.
+Asimismo, permite disminuir los riesgos asociados al transporte y la
+comercialización, minimizando el sufrimiento, las lesiones y el estrés en los
+animales y favoreciendo su bienestar de los mismos. Hay diversas acciones a
+considerar al momento de planificar el transporte de ganado, que reducen
+considerablemente los riesgos y favorecen su eficiencia.
+Ante la oportunidad o necesidad de transportar o comercializar hacienda, se
+deben considerar las particularidades de los animales a transportar (categoría,
+raza, estado sanitario, preñez, presencia de cuernos, entre otros).
+En caso de una operación comercial, se debe definir el tipo de operación y sus
+características con el consignatario, comprador o destinatario.
+Se debe conformar el lote de animales a transportar, considerando solo aquellos
+que estén aptos para viajar (ver más adelante Manejo en el despacho de los
+animales - Precarga), lo cual debe ser realizado por personal capacitado.
+El método de identificación utilizado para los animales debe ajustarse a la
+normativa vigente y permitir transacciones comerciales y su trazabilidad
+correspondiente.
+6
+Se deben coordinar las acciones con el destinatario de la carga, considerando: el
+día y momento de despacho, el recibo de la/s unidad/es de transporte, el tiempo
+de espera, la disponibilidad de las instalaciones de descarga, su aptitud, las
+características de las instalaciones de recepción y espera, y el eventual
+suministro de agua segura.y alimento, entre otras.
+Se debe definir el medio de transporte de acuerdo con las particularidades, índole
+y duración del viaje y las características de los animales, respetando las
+características establecidas en la normativa vigente.
+Se debe gestionar la documentación necesaria para el movimiento en función al
+objetivo de la operación comercial y del transporte.
+Se debe coordinar las acciones con el transportista, considerando: cantidad y
+características de los animales; día, hora y lugar de carga; destino y horario
+programado de llegada; entre otros.
+Se debe evaluar las condiciones meteorológicas, considerando la salud y el
+bienestar de los animales y el estado de rutas y caminos para determinar la
+factibilidad del transporte.
+Se debe preparar a los animales con la debida anticipación para la carga y el
+viaje (ver más adelante Manejo en el despacho de animales).
+Personal
+Asegurar la disponibilidad de personal idóneo y en cantidad suficiente.
+Las personas involucradas en el manejo de los animales deben tener los
+conocimientos necesarios sobre los aspectos básicos de la salud, el
+comportamiento y el bienestar de los animales, de acuerdo con sus
+responsabilidades y tareas. Además, deben contar con capacitación/actualización
+periódica sobre el manejo de los animales, el mantenimiento de los equipos,
+riesgos de trabajo y seguridad laboral.
+Debe designarse y capacitarse entre el personal a un responsable de la salud y el
+bienestar animal en el establecimiento, quien debe estar involucrado en la
+preparación, selección y carga previos al transporte.
+El personal debe ser provisto de la ropa de trabajo, los elementos y el
+equipamiento de protección necesarios, de acuerdo con el tipo de tarea que
+realice, y se debe promover su utilización.
+7
+Se debe disponer de botiquín de primeros auxilios.
+Infraestructura
+INSTALACIONES GRAL.
+Se deben mantener en buenas condiciones las instalaciones del establecimiento,
+con especial atención de los accesos, alambrados, corrales e instalaciones para
+la carga y descarga de los animales.
+Las instalaciones de carga y descarga, incluido el piso, deben diseñarse,
+construirse, mantenerse y utilizarse de modo que se eviten lesiones, se reduzcan
+al mínimo las causas de agitación y de estrés y se garantice la seguridad de los
+animales durante su desplazamiento. En particular, los pisos deben evitar
+resbalones y/o caídas, contar con la pendiente apropiada y deben preverse
+protecciones laterales preferentemente ciegas con el fin de prevenir que los
+animales se distraigan o asusten.
+Se recomienda que las instalaciones utilizadas para la carga y descarga de los
+animales cuenten con
+-Corrales de acopio y salida.
+-Callejón de aparte que permita cortar grandes lotes en grupos pequeños, no
+mover todos los animales juntos y evitar corridas y golpes.
+-Corrales de encierre que posibiliten el descanso de los animales previo a la
+carga, con bebederos y comederos en caso de ser necesario.
+-Playa de maniobras para el camión con terreno firme, nivelado y con espacio
+suficiente para permitir un buen atraque.
+-Embudo o toril que preferentemente cuente con paredes laterales ciegas, con un
+diseño funcional que facilite el movimiento fluido de los animales.
+-Es recomendable contar con una balanza en el establecimiento.
+-Rampa para carga y descarga (cargador) con las siguientes características:
+ Orientada de forma tal que el sol, al amanecer o al atardecer, no esté de frente
+a la zona de ingreso al camión.
+8
+ Pendiente suave (con un ángulo máximo de 20°), cuanto menor sea la
+pendiente mayor será la facilidad para cargar los animales. En el caso de
+rampas que no se utilicen para el movimiento de terneros, la pendiente puede
+alcanzar un ángulo máximo de 25°.
+ El ancho de la rampa de carga preferentemente debe coincidir con el ancho de
+la puerta de la jaula del camión.
+ Para las rampas exclusivas de descarga, su ancho no debe exceder el ancho
+total del camión.
+ Tramo final plano (sin pendiente) de más de 2m de largo a modo de plataforma
+para facilitar el flujo de los animales.
+ Piso antideslizante. Si es de cemento puede ser ranurado o contar con
+pestañas. Periódicamente, se debe constatar que no tenga un grado de
+desgaste tal que perjudique la función antideslizante.
+ Paredes laterales sólidas, ciegas; pudiendo ser de metal, madera o
+mampostería.
+ No debe haber diferencias de nivel entre el piso del camión y de la rampa.
+Salud Animal
+La tropa por transportar debe tener buen estado de salud, a excepción de los
+animales enfermos que requieran ser transportados para tratamiento. La
+planificación y ejecución del plan sanitario colabora con el objetivo de contar con
+una tropa en buenas condiciones de salud.
+Los animales que conforman la tropa deben ser inspeccionados por un operario
+capacitado que evaluará su salud y aptitud para viajar antes de ser embarcados.
+Antes de realizar el embarque de la hacienda, independientemente de su destino,
+se deben realizar los procedimientos sanitarios de prevención que sean
+indispensables y garanticen que la tropa no esté expuesta a adquirir problemas
+parasitarios o infecciosos durante el transporte y que tampoco sean una fuente de
+transmisión de enfermedades desde su origen hacia el destino. Estos
+procedimientos sanitarios dependen de situaciones particulares que pueden
+variar según el tipo de tropa (invernada, terminada, reproductores, etc.) y las
+particularidades de la zona de origen y destino. Ejemplo: terneros que salen de
+zona de lucha contra garrapata hacia una limpia o, contrariamente, reproductores
+que son enviados de una zona limpia a otra de lucha o sucia de garrapatas.
+En caso de transportar animales bajo tratamiento veterinario, se deben registrar e
+identificar de forma inequívoca aun cuando no haya seguimiento individual de los
+bovinos e informar al destinatario.
+9
+Los animales bajo mayor riesgo (hembras preñadas, hembras en lactancia,
+animales muy jóvenes, de refugo o descarte, animales más reactivos o
+temperamentales, animales con visión disminuida o ceguera total) deben
+manejarse con especial cuidado de acuerdo con su estado y, cuando
+corresponda, contemplar sus necesidades particulares de espacio.
+Los animales que sean considerados no aptos para viajar no deben ser cargados,
+a menos que sea necesario transportarlos para realizarles tratamiento veterinario.
+Por ejemplo, los animales que no pueden moverse por sí solos, ni desplazarse o
+permanecer de pie sin ayuda; los que presentan una herida abierta grave o un
+prolapso; las hembras preñadas que hayan superado el noventa por ciento (90%)
+del tiempo de gestación, o que hayan parido la semana anterior; y los animales
+recién nacidos cuyo ombligo no ha cicatrizado completamente.
+Cuando el productor es quién recibe los animales y se requiera la administración
+de algún producto veterinario (vacunas, antiparasitarios, mineralizantes, etc.),
+deben ser aplicados sobre la hacienda descansada.
+Manejo en el Despacho de animales
+PRECARGA .
+El plan de manejo animal sugerido en la guía de producción (ver Buenas
+Prácticas Ganaderas: guía para la implementación en la producción de vacunos
+de carne) incluye las prácticas recomendadas para la preparación de los animales
+a transportar/comercializar y un responsable asignado para el seguimiento de su
+correcta aplicación.
+Se deben mantener grupos estables para evitar alterar el orden social establecido
+entre los animales. Si hubiera que reagrupar/dividir/reclasificar tropas, se
+recomienda que los grupos sean homogéneos por origen, categoría, tamaño
+corporal y/o estado sanitario-nutricional y se adopten prácticas de buena
+interacción humano-animal para minimizar el impacto que estas modificaciones
+produzcan. Estas prácticas de buena interacción comprenden aspectos tales
+como manejar a los animales aprovechando sus comportamientos naturales y
+seleccionar instrumentos inductores de movimiento adecuados (banderas,
+elementos sonoros no estridentes, sonajas), entre otros. Las tropas de diferentes
+características o categorías deben ser transportadas con separadores en el
+camión.
+Conocer el comportamiento de la especie y considerar la zona de fuga y el punto
+de equilibrio, es fundamental para estimular el avance de los animales y
+orientarlos en la dirección deseada. Los animales deben ser llevados al corral de
+10
+preembarque de manera tranquila, sin forzar su marcha y evitando toda situación
+que produzca estrés (uso de perros no adiestrados, gritos o golpes). Cuando sea
+posible, y sin que represente un riesgo para el trabajador, los animales pueden
+ser conducidos por un operario a pie.
+El movimiento de la hacienda debe hacerse con la antelación adecuada a la hora
+acordada del embarque con el transportista, de manera tal que, luego de arribar
+al corral, los animales puedan descansar y abrevar.
+El uso de inductores de movimiento de los animales debe realizarse conociendo
+las características del comportamiento natural. Está contraindicado el uso de la
+picana, salvo en los casos autorizados por la normativa vigente bajo las
+condiciones allí establecidas donde la integridad física del personal así lo
+requiera.
+Se debe evitar el hacinamiento del ganado en los corrales y áreas de manejo,
+para ello deben llenarse parcialmente dejando espacio suficiente para permitir el
+movimiento de animales, así como el acceso al agua segura.y la comida, en caso
+de corresponder.
+ALIMENTACIÓN.
+Los animales deben abrevar sin restricciones antes de la carga. Los bebederos
+deben tener las dimensiones suficientes para que todos los animales, según su
+categoría y tipo, accedan al agua minimizando la competencia entre ellos.
+Cuando existe el riesgo de que los animales sean expuestos a altas temperaturas
+durante el traslado, se recomienda evitar el mismo en las horas de mayor
+temperatura y no transportarlos con gran cantidad de alimento en su tracto
+digestivo, ya que los procesos fermentativos del rumen pueden producir un
+exceso de calor y afectar su salud. La extensión del ayuno antes del embarque
+dependerá del tiempo estimado de transporte, del tipo de alimentación que se les
+está suministrando a los animales y de las condiciones climáticas, entre otros. El
+tiempo de ayuno total hasta destino o faena no debe superar las 24hs.
+CARGA DE ANIMALES.
+El embarque debe ser realizado muy próximo a la partida del transporte para
+evitar lesiones en los animales cargados.
+La carga debe cumplir con los requisitos de bienestar animal mencionados para
+su manejo sin apurar la marcha de los animales en ningún momento.
+Se debe considerar la densidad de carga recomendada en función de las
+características del vehículo, así como la cantidad y características de los animales
+11
+a transportar según lo indicado en la normativa vigente (ver cuadro 1, pág. 25).
+Situaciones con densidades de carga muy diferentes a lo recomendado, animales
+muy apretados o con excesivo lugar presentan riesgos.
+En épocas en las que la temperatura es elevada, la densidad de carga debe ser
+ligeramente inferior para favorecer la ventilación.
+Manejo en la Recepción de animales (cuando el
+productor es quien recibe)
+Una vez arribada la hacienda remitida, previo a la descarga de los animales, el
+responsable de la recepción debe verificar la documentación a efectos de
+asegurarse el correcto arribo del lote y su pertinencia, conocer si hubiere
+observaciones o cualquier otro antecedente destacable.
+Una vez realizada la verificación de la documentación, se debe procurar la
+descarga de los animales ni bien sea posible.
+La descarga debe cumplir con los requisitos mencionados para el manejo de los
+animales sin apurar la marcha de estos en ningún momento.
+El cargador debe cumplir con las características antes mencionadas en el
+subtítulo de Infraestructura.
+Una vez descargados, los animales deben recuperarse y/o descansar en corrales
+que permitan su libre movimiento y con acceso al agua segura y en cantidad para
+que puedan reponer su hidratación y satisfacer su sed.
+Luego, la tropa debe llevarse en forma tranquila a un potrero o corral de
+observación asignado temporalmente, que es conveniente esté separado de los
+animales que ya están en el establecimiento, a modo de cuarentena. Durante
+este período deben hacerse observaciones periódicas y actividades sanitarias
+que correspondan (por ej. vacunaciones, desparasitaciones, análisis clínicos).
+12
+RESPONSABLE SOBRE EL
+PREDIO DESTINADO A FERIAS
+O EVENTOS
+CONCENTRADORES DE
+ANIMALES
+El presente capítulo está dirigido a las personas responsables del predio, su
+habilitación como tal y las instalaciones donde se realizan los remates ferias u
+otras actividades que impliquen la concentración de hacienda. No se hace
+referencia a quienes gestionan el evento sobre esa instalación, que se trata en el
+capítulo Responsable sobre la Gestión de Eventos Comerciales con
+concentración de animales - remates feria.
+Normativa
+Registrar y habilitar el predio ante las autoridades competentes municipal y
+sanitaria, conforme a los requisitos edilicios y de funcionamiento.
+Infraestructura
+INSTALACIONES GRAL.
+Las instalaciones deben ser diseñadas o acondicionar las preexistentes,
+considerando el propósito de su uso, la comodidad y seguridad de los operarios,
+el comportamiento y bienestar de los animales y el cuidado del ambiente.
+Las instalaciones del predio deben comprender los siguientes sectores:
+ Recepción del ganado: incluye plazoleta/playa de camiones,
+desembarcadero y corrales para alojamiento del ganado.
+ Ventas, constituido por calles y corrales destinados al tránsito y alojamiento
+de los animales.
+ Salida: comprende calles de egreso, debiendo contar con corrales de
+depósito y muelles de carga para la hacienda vendida, en espera de ser
+cargada a destino final.
+13
+ Complejo sanitario: debe estar ubicado estratégicamente para facilitar el
+aislamiento de los animales y contar con: lazareto, corrales de aislamiento,
+manga y cepo.
+ Playa de lavado y desinfección de vehículos transportadores de ganado.
+ Lugar identificado para la disposición de animales muertos que responda a
+la normativa vigente considerando aspectos epidemiológicos y ambientales.
+ Construcciones accesorias.
+Los materiales para emplear en la construcción deben ser de fácil desinfección y
+no poseer salientes que puedan producir lesiones a los animales.
+La rampa para carga y descarga (cargador/embarcadero) con las siguientes
+características:
+ Orientada de forma tal que el sol, al amanecer o al atardecer, no esté de
+frente a la zona de ingreso al camión.
+ Pendiente suave (con un ángulo máximo de 20°), cuanto menor sea la
+pendiente mayor será la facilidad para cargar los animales. En el caso de
+rampas que no se utilicen para el movimiento de ternero, la pendiente puede
+alcanzar un ángulo máximo de 25°.
+ El ancho de la rampa de carga preferentemente debe coincidir con el ancho
+de la puerta de la jaula del camión.
+ Para las rampas exclusivas de descarga, su ancho no debe exceder el ancho
+total del camión.
+ Tramo final plano (sin pendiente) de más de 2m de largo a modo de
+plataforma para facilitar el flujo de los animales.
+ Piso antideslizante. Si es de cemento puede ser ranurado o contar con
+pestañas. Periódicamente, se debe constatar que no tenga un grado de
+desgaste tal que perjudique la función antideslizante.
+ Paredes laterales sólidas, ciegas; pudiendo ser de metal, madera o
+mampostería.
+ No debe haber diferencias de nivel entre el piso del camión y de la rampa.
+Es recomendable contar con una balanza en el establecimiento.
+Instalaciones para el personal: el predio debe contar con baños/ vestuarios y
+comedor acorde a la cantidad de personal (permanente o temporario).
+14
+Instalaciones para clientes y visitas: el predio debe contar con baños y comedor
+acorde a la cantidad de personas que convoca a las actividades que allí se
+desarrollan.
+HIGIENE Y MANTENIMIENTO
+La higiene y el mantenimiento de las instalaciones, equipos y herramientas deben
+garantizar su objetivo de funcionamiento, sin presentar un riesgo para la
+integridad de las personas y los animales que los utilicen.
+Se debe elaborar e implementar un plan de higiene y mantenimiento de
+instalaciones, equipos y herramientas que incluya objetivo, cronograma y
+protocolos.
+Se debe poseer un registro de tareas realizadas y productos utilizados para
+higiene y mantenimiento de instalaciones, equipos y herramientas.
+ALAMBRADOS Y PUERTAS
+Las instalaciones deben estar circundadas en todo su perímetro por un cerco o
+alambrado que garantice su correcta función, el cual encierra todas las
+dependencias.
+El diseño de la posición y el ángulo de apertura de tranqueras y puertas son
+fundamentales para el manejo del ganado. La capacidad de abrir, cerrar y
+asegurar las puertas con facilidad reduce el riesgo de fuga o la necesidad de
+redirigir a los animales que se mueven en la dirección equivocada.
+CORRALES
+Los corrales, calles y mangas deben estar debidamente identificados para permitir
+el manejo y encierre de los animales, y facilitar su trazabilidad.
+La información de la receptividad o la superficie de encierre total y de cada corral
+debe ser conocida e informada. La receptividad de cada corral se debe calcular a
+razón de al menos 2.5 m² por equivalente bovino adulto para que los animales
+puedan expresar sus comportamientos básicos como levantarse, echarse, darse
+vuelta y caminar.
+Los corrales deben contar con bebederos y si correspondiera comederos, ambos
+construidos con materiales de fácil limpieza y desinfección, sin salientes ni bordes
+capaces de generar lesiones a los animales, de tamaño adecuado para que todos
+los animales tengan fácil acceso.
+15
+Los bebederos deben garantizar el suministro de agua segura y fresca disponible
+en cantidad suficiente de forma permanente.
+Los corrales de descanso deben contar con protección frente a condiciones
+climáticas adversas, con reparo y sombra en dimensiones suficientes para que
+todos los animales puedan acceder a éstos.
+Se debe contar con corrales de aislamiento (lazareto) para alojar animales, ante
+la sospecha de alguna patología. Estos permiten la segregación de
+animales/tropas detectadas con algún tipo de anomalía sanitaria que lo amerite.
+Dichos corrales deben poseer alambrado doble y contar con manga, cepo,
+bebederos y comederos.
+TRANSPORTE
+Para facilitar la circulación del transporte dentro del predio es importante que haya
+señalización correcta en el acceso y principalmente en la rampa de descarga. Se
+recomienda una protección en la pared de la rampa, para amortiguar el impacto y
+facilitar el atraque correcto del transporte.
+Se recomienda que las instalaciones utilizadas para la carga y descarga de los
+animales cuenten con playa de maniobras para el camión con terreno firme,
+nivelado y con espacio suficiente para permitir un buen atraque.
+Dentro de los límites de las instalaciones o en las cercanías, se debe disponer de
+una playa de lavado y desinfección de camiones jaula, habilitada por la autoridad
+competente.
+16
+RESPONSABLE SOBRE LA
+GESTIÓN DE EVENTOS
+COMERCIALES CON
+CONCENTRACIÓN DE
+ANIMALES - REMATES FERIA
+En esta sección se hace referencia a los consignatarios, rematadores y ferieros,
+actores de la cadena ganadera que generan y coordinan el evento remate feria.
+También facilitan las condiciones y asesoran para la selección y compra/venta de
+los animales, y ofrecen o son nexo en la contratación de distintos servicios
+(transporte, servicios financieros, etc.). Cabe destacar que los consignatarios
+también pueden intervenir brindando sus servicios para la comercialización en
+forma directa, sin que los animales pasen por remates feria.
+Los requisitos aquí detallados se refieren a eventos comerciales de remate feria o
+de mercados concentradores. No se consideran eventos de exposición/exhibición
+de animales.
+Normativa
+Se deben solicitar ante las autoridades competentes, las habilitaciones y el
+personal oficial para el evento feria en un predio previamente autorizado a tal fin.
+Se debe cumplir con las disposiciones de la autoridad sanitaria previo, durante y
+posterior al evento.
+Todos los transportes que arriben al predio deben ingresar con la documentación
+de amparo del vehículo y su carga de acuerdo con la normativa, de tal manera
+que se permita identificar propiedad, origen, cantidad, categoría y tropa.
+17
+Planificación y seguimiento
+Se debe controlar que los animales estén identificados, registrados y arriben /
+egresen acompañados de la documentación requerida por la normativa, de modo
+que permita a la autoridad sanitaria determinar el origen, el propietario, el lugar de
+procedencia y destino; la cantidad y categoría de animales, las marcas y
+caravanas u otro dispositivo autorizado.
+Se debe proporcionar toda información pertinente con respecto a los animales,
+tropas, lotes, compradores, vendedores y transportistas.
+Se debe contar con un registro de ingreso de personas al predio que permita
+identificar y comunicarse con los concurrentes a las actividades que allí se
+desarrollen, ante cualquier necesidad.
+Es recomendable disponer de un sistema para garantizar la trazabilidad de la
+información sobre características especiales diferenciales y continuar la
+trazabilidad de información que sea relevante para la diferenciación del
+lote/animal.
+Plan de contingencia
+Se debe contar con un plan de contingencia o plan operativo de emergencia que
+identifique los incidentes que puedan ocurrir durante el evento remate feria,
+brinde información útil y precisa sobre los procedimientos a seguir para solucionar
+dichos incidentes de forma apropiada y en el menor tiempo posible. Debe
+describir detalladamente las medidas que deben tomarse en cada caso y las
+responsabilidades asignadas, incluidas las de comunicar y consignar los hechos.
+Los objetivos generales de un plan de contingencia son
+● Velar por la salud y el bienestar de las personas, la salud y el bienestar de
+los animales y la protección del medio ambiente.
+● Determinar las acciones que cada uno de los operadores y autoridades
+competentes debe ejercer en situaciones de crisis.
+● Establecer criterios que permitan un reconocimiento inmediato del riesgo y,
+por tanto, su pronta comunicación a la autoridad competente y al
+propietario de los animales.
+● Determinar la información apropiada que debe comunicarse entre los
+agentes involucrados en la gestión del riesgo.
+● Garantizar la trazabilidad del riesgo y su contención.
+18
+Personal
+Asegurar la disponibilidad de personal idóneo, en cantidad suficiente y capacitado
+de acuerdo con las funciones que cumple.
+Las personas involucradas en el manejo de los animales deben tener los
+conocimientos necesarios sobre los aspectos básicos de la salud, el
+comportamiento y el bienestar de los animales, de acuerdo con sus
+responsabilidades y tareas. Además, deben contar con una capacitación
+periódica sobre el manejo de los animales, el mantenimiento de los equipos,
+riesgos de trabajo y seguridad laboral.
+El personal debe ser provisto de la ropa de trabajo, los elementos y el
+equipamiento de protección necesarios, de acuerdo con el tipo de tarea que
+realice, y se debe promover su utilización.
+Se debe disponer de botiquín de primeros auxilios.
+Se debe designar un responsable de recibir la tropa y responsable por el traslado,
+encierre, cuidado de los animales recibidos en el establecimiento. Se debe
+notificar y convocar una inspección veterinaria ante la presencia de animales
+caídos y/o enfermos.
+Colaborar con el Veterinario oficial en las tareas de inspección sanitaria de los
+animales.
+Transporte
+Para facilitar la circulación del transporte dentro del establecimiento es importante
+garantizar la señalización correcta en el acceso y principalmente en la rampa de
+descarga. Se recomienda una protección en la pared de la rampa, para
+amortiguar el impacto y facilitar el atraque correcto del transporte. No debe haber
+diferencias de nivel entre el piso del camión y de la rampa.
+Se recomienda realizar el mantenimiento adecuado para garantizar que la playa
+de maniobras para el camión cuente con terreno firme, nivelado y con espacio
+suficiente para permitir un buen atraque.
+19
+Infraestructura
+INSTALACIONES GRAL.
+Se debe velar porque las instalaciones prediales preexistentes se encuentren en
+buenas condiciones para su uso acorde a lo que se requerirá en función del
+evento. Considerar las instalaciones y sus características descriptas en el capítulo
+anterior para el predio.
+Se debe contar con luz artificial que permita realizar inspecciones de emergencia
+o descarga de animales en horas nocturnas. Tanto la manga como el
+embarcadero deben tener una iluminación homogénea sin sombras ni contrastes
+de luz.
+HIGIENE Y MANTENIMIENTO
+La higiene y el mantenimiento de las instalaciones, equipos y herramientas deben
+garantizar su objetivo de funcionamiento y no presentar un riesgo para la
+integridad de las personas y los animales que los utilicen.
+Se debe elaborar e implementar un plan de higiene y mantenimiento de
+instalaciones, equipos y herramientas que incluya objetivo, cronograma y
+protocolos.
+Se debe poseer un registro de tareas realizadas y productos utilizados para
+higiene y mantenimiento de instalaciones, equipos y herramientas.
+Los corrales de descanso deben estar limpios y desinfectados.
+CORRALES
+La información de la receptividad o la superficie de encierre total y de cada corral
+debe estar disponible. La receptividad de cada corral se debe calcular a razón de
+al menos 2.5 m² por equivalente bovino adulto para que los animales puedan
+expresar sus comportamientos básicos como levantarse, echarse (corrales de
+descanso o aislamiento), darse vuelta y caminar.
+Los corrales deben contar con protección frente a condiciones climáticas
+adversas con reparo y sombra en dimensiones suficientes para toda la tropa.
+Los corrales deben contar con bebederos y si correspondiera comederos
+construidos con materiales de fácil limpieza y desinfección, sin salientes ni bordes
+20
+capaces de generar daños a los animales, de tamaño adecuado para que todos
+los animales tengan fácil acceso.
+Los bebederos deben garantizar el suministro de agua segura y fresca disponible
+en cantidad suficiente de forma permanente.
+EQUIPOS Y HERRAMIENTAS
+Se debe contar con el equipamiento adecuado para el manejo y movilización de
+animales caídos.
+En el caso de necesitar realizar el sacrificio de algún animal, se debe contar con
+los elementos para llevar a cabo la eutanasia o sacrificio humanitario.
+Manejo
+DESCARGA DE ANIMALES
+Los animales se deben descargar lo antes posible al arribar a destino, se
+recomienda minimizar el tiempo entre el arribo y la descarga, y arrearlos hacia los
+corrales de descanso en forma segura.
+Durante el arreo de los animales hacia los corrales de descanso deben evitarse
+acciones que generen sufrimiento y estrés como fuertes ruidos, gritos,
+movimientos bruscos, objetos extraños o alternancia de sitios oscuros y muy
+iluminados en el trayecto de traslado.
+No se debe utilizar elementos que provoquen daños, o sufrimiento.
+ESTANCIA
+El llenado de los corrales debe respetar la receptividad informada en cada corral.
+Se debe velar por la salud y el bienestar de los animales durante su estadía
+transitoria que involucra la recepción y espera, la descarga de ingreso, manejo,
+alojamiento y suministro de agua (y alimento según corresponda), carga y
+despacho.
+Los animales de mayor riesgo (hembras preñadas, hembras en lactancia,
+animales muy jóvenes, de refugio o descarte, animales excitables o agresivos,
+animales con poco contacto con humanos, animales con visión disminuida o
+ceguera total) deben manejarse con especial cuidado de acuerdo con su estado
+y, cuando corresponda, contemplar sus necesidades particulares de espacio.
+Se debe asegurar que los animales sean conducidos sin demora a su lugar o
+corral de destino.
+21
+Hacer uso de los instrumentos inductores de movimiento conforme lo establece la
+normativa vigente (banderas, elementos sonoros no estridentes, sonajas).
+La permanencia transitoria de los animales en las instalaciones debe ser la
+mínima posible con provisión de agua segura de bebida en cantidad suficiente.
+Si el tiempo transcurrido desde la salida del campo hasta la estadía en el predio
+supera las 24 horas (tiempo de ayuno total) debe proveerse de más espacio de
+corral para moverse, además de alimento en cantidad y calidad adecuadas para
+cada categoría.
+CARGA DE ANIMALES.
+El embarque debe ser realizado muy próximo a la partida del transporte para
+evitar lesiones en los animales cargados.
+La carga debe cumplir con los requisitos de bienestar animal mencionados para el
+manejo de éstos: calma, no apurar la marcha de los animales.
+Se debe considerar la densidad de carga recomendada en función de las
+características del vehículo, así como la cantidad y características de los animales
+a transportar según lo indicado en la normativa vigente (ver cuadro 1, pág. 25).
+Situaciones con densidades de carga muy diferentes a lo recomendado, animales
+muy apretados o con excesivo lugar presentan riesgos.
+En épocas en las que la temperatura es elevada, la densidad de carga debe ser
+ligeramente inferior para favorecer la ventilación.
+Salud
+Se debe informar de inmediato al veterinario oficial de todo animal muerto, caído
+o sospechoso de padecer alguna enfermedad de notificación obligatoria que se
+observe en las instalaciones de remate feria.
+Se debe disponer de botiquín veterinario de primeros auxilios.
+Se debe contar con un protocolo para la disposición de animales muertos en el
+lugar destinado e identificado para tal fin.
+Equinos
+Llevar el registro actualizado de los equinos que se utilicen dentro de las
+instalaciones y cumplir las exigencias de identificación, sanitarias y de bienestar.
+22
+MATARIFE
+Este actor de la cadena ganadera opera desde la selección de los animales a
+campo y la logística de abastecimiento a la industria hasta operadores que luego
+distribuyen o disponen el producto al mercado interno o externo. Para esto
+coordina, gestiona y contrata distintos servicios (transporte, faena, etc.).
+Si bien la labor del matarife involucra tanto los procesos previos como posteriores
+a la faena, los aspectos tratados en este capítulo se definen en función del
+alcance de las Buenas Prácticas Ganaderas, es decir, los estadios pre-faena.
+Normativa
+Se debe cumplir con la normativa vigente requerida para matarife.
+Planificación y seguimiento
+Coordinar las acciones con el destinatario y el transportista de la carga,
+considerando: la cantidad y características de los animales, el día y momento de
+despacho, recepción de la/s unidad/es de transporte, el tiempo de espera, la
+disponibilidad de instalaciones de descarga y su aptitud, las características de las
+instalaciones de recepción, espera y eventual suministro de agua segura y
+alimento, entre otras.
+Evaluar las condiciones meteorológicas considerando el bienestar animal y la
+factibilidad del transporte.
+Se debe mantener una comunicación eficaz entre los distintos actores con los que
+interactúa el matarife y de esta forma, fomentar canales de comunicación abiertos
+que faciliten el seguimiento y control de la tropa durante el transporte y la faena.
+Se debe verificar que los animales estén identificados, registrados y arriben /
+egresen acompañados de la documentación requerida por la normativa que
+permita determinar:
+● El propietario y establecimiento de origen.
+● El lugar de procedencia y destino.
+● Cantidad y categoría de animales, marcas y caravanas u otro dispositivo
+autorizado.
+Se debe aplicar la trazabilidad de la información exigible por normativa que
+acompaña a esa tropa o animal desde su origen, sus distintas etapas hasta el
+destino final, garantizando también la trazabilidad de la información de
+características especiales de interés. Contar con un protocolo para realizar este
+seguimiento.
+23
+Personal
+Se debe asegurar la disponibilidad de personal idóneo, capacitado y en cantidad
+suficiente de acuerdo con las funciones que cumple. Deben tener la idoneidad
+necesaria que hacen a su función sobre aspectos en producción de ganado, así
+como salud y bienestar animales, puntos críticos y nociones sobre posibles
+soluciones ante la falta de ellos.
+El personal debe ser provisto de la ropa de trabajo, los elementos y el
+equipamiento de protección necesarios, de acuerdo con el tipo de tarea que
+realice, y se debe promover su utilización.
+Se debe disponer de botiquín de primeros auxilios.
+24
+PLANTA DE FAENA
+El procedimiento de faena del ganado vacuno se realiza en diferentes tipos de
+establecimientos industriales, que de acuerdo con su destino comercial cuentan
+con la habilitación de las autoridades nacionales, provinciales o municipales. Los
+aspectos tratados en este capítulo se definen en función del alcance de las
+Buenas Prácticas Ganaderas desde la recepción de los animales en planta y el
+manejo de éstos en corrales de descanso, lavado, incluyendo el arreo hasta el
+cajón de noqueo.
+Normativa
+Se debe cumplir con la normativa vigente y disposiciones de la autoridad
+sanitaria.
+Se debe solicitar ante autoridades competentes las habilitaciones y el personal
+oficial requerido.
+Todos los transportes que arriben a la planta deben ingresar con la
+documentación de amparo de acuerdo con la normativa, de tal manera que se
+permita identificar propiedad, origen, cantidad, categoría y tropa.
+Planificación y seguimiento
+Se debe contar con una planificación que permita un adecuado uso de las
+instalaciones, considerando la densidad y flujo óptimo de animales, la seguridad
+del personal y el cuidado del ambiente. Las áreas críticas al momento de
+planificar la dinámica de trabajo y seguimiento son la recepción de animales, su
+descarga, estadía y movimiento dentro la planta.
+La planificación debe ser tal que minimice el tiempo de espera de los animales en
+los corrales, respetando los plazos establecidos en la normativa vigente.
+Personal
+Asegurar la disponibilidad de personal idóneo, en cantidad suficiente y capacitado
+de acuerdo con las funciones que cumple.
+25
+Los operarios de la planta de faena deben conocer las condiciones para el
+manejo de los animales con el fin de garantizar su bienestar; desplazar los
+animales en condiciones que eviten daños o sufrimientos innecesarios a los
+mismos y asegurar que sean conducidos sin demoras a su lugar o corral de
+destino. Además, deben contar con una capacitación periódica sobre el manejo
+de los animales, el mantenimiento de los equipos, riesgos de trabajo y seguridad
+laboral.
+El personal debe ser provisto de la ropa de trabajo reglamentaria, los elementos y
+el equipamiento de protección personal (EPP) necesarios, de acuerdo con el tipo
+de tarea que realice, y se debe promover su utilización.
+Se debe disponer de botiquín de primeros auxilios.
+La planta debe contar con baños / vestuarios y comedor acorde a la cantidad de
+personal en las instalaciones (permanente o temporario).
+Se debe designar un responsable de recibir la tropa (“corralero”) para el traslado,
+encierre, cuidado de los animales recibidos en la planta; además de dar
+intervención a la inspección veterinaria ante la presencia de animales caídos y/o
+enfermos.
+Colaborar con el Veterinario oficial en las tareas de inspección sanitaria de los
+animales.
+Transporte
+Para facilitar la circulación del transporte dentro de la planta es importante que
+haya señalización correcta en el acceso y principalmente en la rampa de
+descarga. Se recomienda una protección en la pared de la rampa, para
+amortiguar el impacto y facilitar el atraque correcto del transporte.
+Se recomienda que las instalaciones utilizadas para la carga y descarga de los
+animales cuenten con playa de maniobras para el camión con terreno firme,
+nivelado y con espacio suficiente para permitir un buen atraque.
+Dentro de los límites de las instalaciones o en las cercanías, se debe disponer de
+una playa de lavado y desinfección de camiones jaula habilitada por la autoridad
+competente.
+La planta debe contar con baños y área de espera para los choferes acorde al
+flujo usual de camiones en las instalaciones.
+26
+Infraestructura
+Las instalaciones deben estar diseñadas contemplando las necesidades y
+particularidades de comportamiento de los animales, a los fines de evitar o
+atenuar factores de estrés, conservando buenas condiciones edilicias y facilitando
+un mantenimiento preventivo en todos los sectores, de tal manera que se
+garantice la seguridad del personal y el bienestar animal.
+Los materiales para emplear en la construcción deben ser de fácil limpieza y
+desinfección, además no poseer salientes que puedan producir lesiones a los
+animales.
+Todas las áreas de tránsito de los animales (rampa de descarga, mangas, corral
+de descanso, brete), así como también en las entradas y salidas de los corrales,
+el piso debe ser antideslizante, condición que facilita el arreo y reduce los riesgos
+de caídas y resbalones.
+Se debe contar con luz artificial que permita realizar inspecciones de emergencia,
+o descarga de animales en horas nocturnas. Tanto la manga como el
+embarcadero deben tener una iluminación homogénea sin sombras ni contrastes
+de luz.
+Las mangas deben tener paredes laterales ciegas que ofrezcan seguridad a los
+operarios mientras se mantiene un contacto visual con los animales y se les
+brindan estímulos para avanzar. Se recomienda que las mangas sean anchas y
+curvas para estimular el avance en grupo.
+El embarcadero debe tener las siguientes características:
+● Orientada de forma tal que el sol, al amanecer o al atardecer, no esté de
+frente a la zona de ingreso al camión.
+● Pendiente suave (con un ángulo máximo de 25°), cuanto menor sea la
+pendiente mayor será la facilidad para descargar los animales.
+● Para las rampas de descarga, su ancho no debe exceder el ancho total del
+camión.
+● Tramo final plano (sin pendiente) de más de 2m a modo de plataforma para
+facilitar el flujo de los animales.
+● Piso antideslizante. Si es de cemento puede ser ranurado o contar con
+pestañas. Se debe constatar que no tenga desgaste.
+● Paredes laterales sólidas, ciegas.
+27
+● No debe haber diferencias de nivel entre el piso del camión y de la rampa.
+Los desagües deben estar bien dimensionados y con una ubicación que no
+provoquen distracción a los animales durante el arreo y perjudiquen el manejo.
+Para garantizar un buen drenaje de agua y líquidos el piso del corral debe tener
+una pendiente hacia la rejilla. Los efluentes de corrales deben tratarse acorde a la
+normativa vigente.
+La planta de faena debe poseer instalaciones en condiciones adecuadas como
+salas de urgencia y de necropsia de tal manera que se permita la separación de
+animales o tropas detectadas con algún tipo de anomalía sanitaria.
+HIGIENE Y MANTENIMIENTO
+La higiene y el mantenimiento de las instalaciones, equipos y herramientas deben
+garantizar su objetivo de funcionamiento y que no presenten un riesgo para la
+integridad de las personas y los animales que los utilicen.
+Se debe elaborar e implementar un plan de higiene y mantenimiento de
+instalaciones, equipos y herramientas que incluya objetivo, cronograma y
+protocolos.
+Se debe poseer un registro de tareas realizadas y productos utilizados para
+higiene y mantenimiento de instalaciones, equipos y herramientas.
+Los corrales de descanso deben estar limpios y desinfectados.
+ALAMBRADOS Y PUERTAS
+Las instalaciones deben estar circundadas en todo su perímetro por un cerco o
+alambrado que garantice su correcta función, el cual delimita el predio.
+El diseño de la posición y el ángulo de apertura de tranqueras y puertas son
+fundamental para dirigir el ganado. La capacidad de abrir, cerrar y asegurar las
+puertas con facilidad reduce el riesgo de fuga o la necesidad de redirigir a los
+animales que se mueven en la dirección equivocada.
+CORRALES
+El diseño y dimensionamiento total de corrales se calcula de acuerdo con el
+número de animales que serán faenados y su ubicación con respecto a las
+mangas debe ser proyectada para facilitar la conducción de manera de permitir un
+flujo adecuado que alimente la línea de faena.
+28
+La información de la receptividad o la superficie de encierre total y de cada corral
+debe estar disponible. La receptividad de cada corral se debe calcular a razón de
+al menos 2.5 m² por equivalente bovino adulto para que los animales puedan
+expresar sus comportamientos básicos como levantarse, echarse, darse vuelta y
+caminar.
+Los corrales de descanso deben contar con protección frente a condiciones
+climáticas adversas con reparo y sombra en dimensiones suficientes para que
+todos los animales puedan acceder a estos.
+Los corrales deben contar con bebederos ubicados en forma adecuada, de tal
+manera que se garantice el suministro en cantidad, calidad y espacio suficiente
+para toda la tropa.
+EQUIPOS Y HERRAMIENTAS
+El establecimiento debe contar con un insensibilizador portátil para aquellos
+casos que se sacrifiquen en sala de emergencia o eventualmente animales
+enfermos, heridos, caídos, en mangas, corrales o medios de transportes.
+Es recomendable contar con balanza en la planta.
+Manejo
+Las empresas deben desarrollar su propio manual de Bienestar Animal que
+establezca los procedimientos adecuados para el manejo de los animales, su
+aplicación y control acorde a las características particulares de cada planta de
+faena.
+Se deben descargar primero los animales capaces de caminar, luego los
+animales caídos serán descargados y transportados en un carro o camilla y en
+caso de ser necesario insensibilizados previamente; deben ser llevados
+inmediatamente hacia el lugar de inspección veterinaria, y de corresponder,
+directamente a faena a fin de minimizar su sufrimiento.
+El llenado de los corrales debe respetar la receptividad informada en cada corral.
+Los animales se deben descargar lo antes posible al arribar a destino, se
+recomienda minimizar el tiempo entre el arribo y la descarga, y arrearlos hacia los
+corrales de descanso en forma segura.
+Durante el arreo de los animales desde los corrales de descanso deben evitarse
+acciones que generen sufrimiento y estrés como fuertes ruidos, gritos,
+movimientos bruscos, objetos extraños o alternancia de sitios oscuros y muy
+iluminados en el trayecto de traslado.
+29
+No se debe utilizar elementos que provoquen daño o sufrimiento.
+Los animales deben ubicarse preferentemente en compañía de animales de su
+misma tropa de modo que puedan expresar su comportamiento.
+Si el tiempo transcurrido desde la última comida en origen hasta la faena supera
+las 24 horas (tiempo de ayuno total), se debe alimentar a los animales que
+componen la tropa.
+Salud
+La inspección ante mortem se debe realizar en todos los animales para verificar el
+estado de salud y las condiciones de bienestar animal. Esta inspección debe ser
+llevada a cabo por un profesional veterinario.
+Los animales caídos o que necesitan de atención especial y deben ser separados
+a corrales de observación para una mejor inspección ante-morten por parte de la
+Inspección Veterinaria Oficial.
+Notificar de inmediato al veterinario oficial de todo animal muerto, caído o
+sospechoso de padecer alguna enfermedad de denuncia obligatoria que aparezca
+en las instalaciones de la planta de faena.
+Se debe disponer de botiquín veterinario de primeros auxilios.
+30
+T
+RANSPORTISTA
+Este actor es el encargado de realizar el traslado de los animales de un lugar de
+origen a otro de destino en un vehículo (camión jaula) adecuado para este fin, de
+manera tal que los animales alcancen su destino en buen estado y dentro de un
+lapso de tiempo concreto preestablecido.
+Se hace referencia al transporte en camiones jaula específicamente, sin abordar
+las problemáticas de otros tipos de medios de transporte (embarcaciones fluviales
+o marítimas, ferrocarril, etc.). En el caso de vehículos de transporte automotor
+para menor cantidad de animales, muchos de estos requisitos pueden ser
+tomados en cuenta, mientras que deben considerarse algunas cuestiones no
+abordadas en esta guía.
+Normativa
+Se debe cumplir con la normativa vigente y disposiciones de la autoridad sanitaria
+según corresponda, tanto para la carga, el vehículo como para el chofer.
+El conductor debe estar habilitado para realizar esa tarea y contar con la
+documentación personal que así lo acredite.
+Los vehículos utilizados para el transporte de animales deben estar identificados
+y registrados por el ente nacional que regula el transporte y deben tener la
+habilitación emitida por la autoridad sanitaria competente.
+Las características del medio de transporte a utilizar deben ajustarse a lo
+establecido por la autoridad de aplicación en la normativa vigente.
+El vehículo debe contar con el seguro obligatorio para circular y un seguro de
+carga.
+Durante el transporte se debe contar con la documentación de amparo de la
+carga de acuerdo con la normativa, de tal manera que se permita identificar
+propiedad, origen, cantidad, categoría y tropa.
+La cantidad máxima de animales a ser transportados debe fijarse en relación con
+las características de los animales y superficie/cabeza asignada en la normativa
+vigente. Ver cuadro 1.
+31
+Cuadro 1. Superficie asignada por cabeza para el transporte de bovinos en función
+de las características de los animales: peso y presencia de astas.
+Planificación y seguimiento
+Las partes involucradas en la operación: responsable en origen, transporte y
+responsable en destino deben coordinar la logística priorizando las condiciones y
+duración del viaje para los animales y el personal involucrado. Esta coordinación
+debe velar por disminuir los tiempos de viaje y evitar superar el tiempo de ayuno
+máximo de los animales.
+Esta planificación del viaje debe considerar aspectos como
+● la índole y la duración del viaje; en caso de corresponder, considerar el
+tiempo necesario en pasar de un medio de transporte a otro o el tiempo de
+espera en los puntos de inspección y previo a la descarga. El tiempo
+transcurrido desde la salida hasta el arribo a destino debe minimizarse y no
+superar las 24 horas (tiempo de ayuno total).
+● el mejor horario para iniciar las actividades, de acuerdo con el clima y la
+duración del viaje y las condiciones meteorológicas pronosticadas para el
+trayecto
+● la documentación necesaria
+● trazado de la ruta de viaje
+● el diseño y mantenimiento del vehículo y/o contenedor y su capacidad de
+carga
+32
+● la observación de los animales durante el trayecto
+● el plan de contingencia
+Personal
+Asegurar la disponibilidad de personal idóneo, en cantidad suficiente y capacitado
+de acuerdo con la función que deba cumplir.
+El conductor del vehículo debe tener nociones básicas de manejo de los animales
+con el fin de garantizar su bienestar; desplazar los animales en condiciones que
+eviten daños o sufrimientos innecesarios a los mismos y asegurar las condiciones
+que dependan de su control durante el viaje. Además, debe contar con una
+capacitación periódica sobre el manejo de los animales, el mantenimiento de los
+equipos, riesgos de trabajo y seguridad laboral.
+El conductor del vehículo debe ser provisto de la ropa de trabajo, los elementos y
+el equipamiento de protección necesarios y se debe promover su utilización.
+El conductor del vehículo debe conducir de forma responsable. Las maniobras
+repentinas y las frenadas bruscas aumentan el riesgo de caídas o golpes en los
+animales.
+Características del transporte
+El vehículo debe ser de uso exclusivo para transporte de hacienda en pie.
+El vehículo debe mantenerse en buenas condiciones mecánicas y estructurales.
+Especial énfasis se le debe dar al sistema de suspensión y frenos del vehículo.
+Se debe cumplir con la revisión técnica obligatoria que anualmente evalúa al
+vehículo.
+Aspectos claves a considerar en relación con las características del medio de
+transporte:
+● Debe garantizar la seguridad de los animales (contando con protección en los
+laterales, rodillos en el borde interno y externo de las puertas, pisos
+antideslizantes, sin salientes ni puntas) para evitar lesiones y sufrimiento.
+● Debe contar con los elementos necesarios para proteger a los animales
+contra las inclemencias del tiempo, de las temperaturas extremas y de los
+cambios meteorológicos desfavorables.
+33
+● Debe evitar que los animales puedan escaparse, caer y conducir de forma tal
+que los animales puedan resistir las tensiones provocadas por los cambios en
+el movimiento del vehículo.
+● Debe garantizar una ventilación apropiada. La ventilación debe proveer de
+aire fresco, remover el exceso de calor, humedad y gases nocivos.
+● Debe disponer de divisiones internas que permitan compartimentar el camión
+para separar animales, en caso de ser necesario.
+● Debe facilitar que los animales puedan ser inspeccionados y atendidos.
+● Debe disponer de piso antideslizante y zócalos que impidan las fugas de orina
+o excrementos.
+● La altura libre necesaria que presente el vehículo debe permitir que cada
+animal pueda adoptar su posición natural durante el transporte sin tocar el
+techo o el piso superior del vehículo.
+● La altura de las puertas de acceso de los animales al camión debe ser como
+mínimo de un metro sesenta (1,60 m) para evitar lesiones o golpes de los
+animales al ingresar o salir del transporte.
+● No debe haber diferencias de nivel entre el piso del camión y de la rampa.
+Higiene y mantenimiento
+Se debe higienizar el vehículo antes de la carga y luego de la descarga de
+animales para prevenir la transmisión de enfermedades. La higiene se compone
+del lavado interno y externo con agua limpia que permita retirar los restos de
+material orgánico y su posterior desinfección.
+Este lavado debe realizarse en lavaderos habilitados para tal fin que permiten
+obtener un certificado de la tarea realizada. Debe presentarse al momento de
+realizar la siguiente carga de animales.
+Se deben respetar los plazos recomendados por el fabricante para realizar el
+mantenimiento periódico del vehículo.
+Manejo
+Se debe evitar la carga y el transporte de animales bajo condiciones climáticas
+extremas o que no estén en condiciones de salud. En caso de resultar necesario,
+deben trasladarse con protección contra el frío, calor o lluvia. En regiones con
+temperatura de calor extremo se recomienda el traslado durante la noche, al
+atardecer o por la madrugada.
+34
+Las operaciones de carga y descarga deben considerar la edad, el estado
+fisiológico y la distancia a recorrer de forma de resguardar la salud y el bienestar
+de los animales. No se deben utilizar fuertes ruidos, gritos, movimientos bruscos,
+objetos extraños, elementos que provoquen daño, sufrimiento o estrés, etc.
+En el caso de requerir el transporte de animales astados, hembras preñadas y/o
+terneros al pie de la madre, se debe considerar una densidad de carga menor a la
+recomendada para el resto de los animales según la normativa vigente.
+Los camiones de doble piso deben reservarse para las categorías de menor
+tamaño (novillitos, vaquillonas y terneros) para facilitar que los animales puedan
+ser inspeccionados.
+En épocas en las que la temperatura es elevada, la densidad de carga debe ser
+ligeramente inferior para favorecer la ventilación.
+Los animales se deben descargar lo antes posible al arribar a destino, se
+recomienda minimizar el tiempo entre el arribo a destino y la descarga.
+Controles durante el viaje
+Una vez finalizada la carga del camión y previo al inicio del viaje, se debe realizar
+el chequeo del estado general de los animales y del vehículo.
+El responsable de los animales debe realizar chequeos regulares para verificar su
+estado. El primer control durante el viaje se realiza dentro de la primera hora de
+viaje y luego se repite al menos cada 2 horas dentro de las paradas programadas.
+En el caso de detectarse o sospechar situaciones con los animales que llamen la
+atención durante el viaje, se debe hacer una parada adicional de control para
+verificar que todo sigue en condiciones para continuar.
+Se debe observar que el lugar donde descansa el vehículo con los animales en
+dichas paradas esté al reparo del sol o inclemencias climáticas.
+Se debe observar cada uno de los animales y detectar la presencia de animales
+muertos, caídos o con signos evidentes de enfermedad y, si corresponde,
+proceder ateniéndose al plan de contingencia.
+Se debe llevar un registro de las observaciones en donde se consignen la hora de
+inspección y acontecimientos.
+35
+Plan de contingencia
+Se debe contar con un plan de contingencia o plan operativo de emergencia que
+identifique los incidentes que puedan ocurrir durante el traslado, brinde
+información útil y precisa sobre los procedimientos a seguir para solucionar dichos
+incidentes de forma apropiada y en el menor tiempo posible. Debe describir
+detalladamente las medidas que deben tomarse en cada caso y las
+responsabilidades asignadas, incluidas las de comunicar y consignar los hechos.
+Los objetivos generales de un plan de contingencia son
+● Velar por la salud y el bienestar de las personas, la salud y el bienestar de los
+animales y la protección del medio ambiente.
+● Determinar las acciones que cada uno de los operadores y autoridades
+competentes debe ejercer en situaciones de crisis.
+● Establecer criterios que permitan un reconocimiento inmediato del riesgo y,
+por tanto, su pronta comunicación a la autoridad competente y al propietario
+de los animales.
+● Determinar la información apropiada que debe comunicarse entre los agentes
+involucrados en la gestión del riesgo.
+● Garantizar la trazabilidad del riesgo y su contención.
+36
+TRAZABILIDAD
+Un sistema de gestión de BPG adecuado debe incluir un sistema de trazabilidad
+para operar con eficacia.
+A los fines de esta guía se define trazabilidad como el sistema que permite
+disponer de determinada información de manera oportuna a través de la colecta y
+registro de datos desde un punto de origen, incluyendo a cada uno de los actores
+y etapas de la cadena, y hasta un punto de destino. Ello puede ser en el sentido
+hacia adelante en el proceso llegando hasta el producto final o viceversa.
+Esta información puede ser de naturaleza legal/normativa y se realiza a través del
+sistema de trazabilidad obligatorio o de naturaleza voluntaria.
+Para el caso de su aplicación a la cadena de producción de carne y leche, uno de
+los primeros eslabones de la trazabilidad es la identificación del animal a su
+nacimiento, identificación ésta que se registra, acompaña al animal a lo largo de
+su vida y se colecta en la etapa de pre-faena, rastreo que se continúa en la planta
+industrial hasta el final de la cadena de comercialización de los distintos
+productos.
+El sistema de trazabilidad facilita el seguimiento de datos de los animales desde
+el campo hasta la planta de faena, y de los productos y subproductos hasta el
+consumidor a través del etiquetado. Permite disponer de datos obligatorios o
+antecedentes especiales de interés, a partir de los registros realizados por cada
+uno de los actores y etapas de la cadena.
+Un adecuado sistema de trazabilidad es reconocido como una herramienta de
+gestión del riesgo para la
+Salud humana.
+Salud animal.
+Seguridad ambiental.
+Mejora continua en la producción.
+Competitividad.
+Gestión de emergencias.
+El tener trazabilidad significa que, ante cualquier motivo que lo amerite, se
+disponga de una herramienta de rastreo que permita reaccionar de manera
+oportuna facilitando información sobre la identificación de eventuales riesgos.
+Requisitos Generales
+El sistema de trazabilidad aplicado debe otorgar transparencia y credibilidad y
+facilitar la gestión de la calidad e inocuidad.
+37
+Se debe aplicar el sistema de trazabilidad obligatorio exigido por la normativa
+vigente (detallado en el Anexo 1).
+El sistema de trazabilidad voluntario, su formato y recursos técnicos asociados
+deben responder a las necesidades y objetivos planificados por el/los actores que
+lo implementen. Entre muchos objetivos se pueden identificar el cumplimiento de
+exigencias sanitarias internacionales, una herramienta de gestión intrapredial, o
+una herramienta comercial de la cadena (ver figura 2).
+Fig. 2 Objetivos del sistema de trazabilidad. Además de la trazabilidad exigida por
+normativa, la incorporación de un sistema de trazabilidad voluntario puede estar
+motivada por objetivos propios de la planificación y diferenciación de la empresa.
+Según el objetivo del sistema de trazabilidad, este debe considerar el concepto de
+trazabilidad “hacia adelante” que permite desde un lugar del proceso de
+producción, poder rastrear un producto hacia los próximos eslabones de la
+cadena. Así, por ejemplo, poder conocer el impacto en la industria o en los
+consumidores de determinada decisión del proceso productivo.
+Complementariamente debe considerarse la trazabilidad “hacia atrás”, que es la
+más utilizada, permitiendo a partir de los últimos eslabones de la cadena (por ej.
+consumidor), poder rastrear información hacia los orígenes del proceso (productor
+ganadero). De una forma u otra, debe consistir en un sistema preciso y rápido de
+identificación de los animales desde los primeros estadios de su vida hasta que
+son entregados al próximo eslabón.
+Un sistema de trazabilidad adecuado debe poseer distintos componentes que
+garanticen su correcto desempeño: bases de datos, documentos, sistema de
+captura de datos y protocolos, gestión de datos y aseguramiento del sistema de
+gestión.
+Un sistema de trazabilidad ganadero debe tener asociado un adecuado sistema
+de identificación de los animales.
+38
+El sistema de identificación animal debe ser flexible y facilitar entre otras cosas:
+ Acreditación de propiedad.
+ Control y erradicación de enfermedades de los animales.
+ Programas de aseguramiento de la calidad y salud pública, trazabilidad,
+recupero de productos, análisis de peligros y puntos críticos de control
+(HACCP, por sus siglas en inglés).
+ Certificación de sanidad de rodeos, regiones y países, apelaciones de origen
+y de sistemas productivos, etc.
+ Cumplimiento con la normativa internacional en la materia.
+ Manejo y la genética de los rodeos.
+ Comercio de animales y sus productos.
+39
+GLOSARIO
+Ante mortem: examen de los animales vivos que van a ser sacrificados con la
+finalidad de comprobar su buen estado de salud y normalidad fisiológica, o verificar
+si presentan alguna anomalía que pudiera ser determinante de que las carnes que
+se van a obtener de ellos no son aptas para el consumo.
+Complejo sanitario: lazareto, corral de aislamiento, manga y cepo que permita aislar
+posibles animales sospechosos o con enfermedad infecto – contagiosa.
+Faena: se entiende por faena el trabajo ejecutado desde el sacrificio de los animales
+hasta su entrada a cámaras frigoríficas, o su expendio con destino al consumo o
+industrialización de las reses, medias reses o sus cuartos.
+Inductores de movimiento: elementos o herramientas accesorias que utiliza el
+personal ganadero para facilitar el arreo de los animales.
+Matarife:
+Punto de equilibrio/balance: se encuentra en la cruz del animal. La ubicación del
+personal durante el arreo determina la dirección y velocidad en la que se moverá el
+animal o la manada.
+Tiempo de ayuno total: es el periodo de tiempo en que los animales permanecen sin
+alimento desde el ayuno previo a la carga hasta retomar su ingesta o el momento
+del sacrificio.
+Tropa:
+Zona de fuga: espacio en torno a un animal que, en caso de ser invadido, provoca
+que el animal se aleje de usted. El tamaño de la zona de fuga dependerá de la raza
+de animal y de su experiencia previa.
+40
+Anexo 1
+Sistema de trazabilidad
+obligatorio
+El Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA), es el
+responsable de fiscalizar y controlar el cumplimiento de la normativa sanitaria
+vigente a nivel nacional. Considerando las nuevas exigencias administrativas y
+desarrollos tecnológicos se implementó el Sistema Integrado de Gestión Sanitaria
+Animal (en adelante SIGSA) como herramienta de trazabilidad, con el fin de
+administrar el registro de establecimientos con existencia de animales bajo
+programas sanitarios, el registro de eventos sanitarios, el registro de los
+movimientos de animales entre establecimientos mediante la emisión del
+Documento de Tránsito Electrónico (DT-e).
+En la actualidad, Argentina cuenta con un sistema de identificación individual de los
+animales a través de la caravana de tipo botón - botón para la zona con vacunación
+contra la fiebre aftosa; en la zona sin vacunación la identificación corresponde al
+binomio tarjeta + botón-botón. La caravana posee impreso el número de ésta junto a
+la clave única de identificación ganadera (CUIG) y el número de inscripción del
+registro nacional sanitario de productores agropecuarios (RENSPA).
+ACTOR PRODUCTOR
+Se destaca la importancia de la figura del productor como iniciador de la
+trazabilidad.
+El productor debe realizar la inscripción de la explotación agropecuaria en el registro
+sanitario de productores agropecuarios (RENSPA), que permite identificar al
+establecimiento con un número único e irrepetible en el sistema SIGSA.
+El sistema de gestión sanitaria animal SIGSA permite registrar las gestiones
+sanitarias que se realizan en el establecimiento, altas y bajas en el rodeo, certificar
+el cumplimiento del calendario de vacunación obligatorio y la emisión de la
+documentación sanitaria necesaria para realizar el movimiento de animales.
+El productor puede optar por auto gestionar el sistema, delegar la gestión en un
+tercero o realizar cualquier trámite de forma personal en la oficina de SENASA.
+41
+Colocar caravanas al rodeo es un factor importante de la trazabilidad, permite
+identificar a cada animal del rodeo de forma individual. El mismo es aconsejable que
+sea realizado a la brevedad posible y siempre previamente al despacho.
+La obtención de la caravana se debe realizar a través de los proveedores inscriptos
+en SENASA. El servicio sanitario nacional, ingresa los números correlativos de
+caravanas al sistema SIGSA, y autoriza al proveedor a la emisión de estas para que
+finalmente lleguen hasta el productor. Es obligación de este último actor informar a
+SENASA la fecha de aplicación de las caravanas, sexo del animal y cualquier
+observación que ocurriera al momento de aplicar la caravana.
+En caso de extravío de la identificación individual, se debe aplicar una caravana de
+reemplazo, la cual debe haber sido previamente solicitada al proveedor y autorizada
+por SENASA.
+Definir la producción ganadera según el mercado al cual el productor desea
+acceder, requiere cumplir con determinados requisitos desde el punto de vista de la
+trazabilidad.
+En caso de optar por una producción ganadera cuyo destino final sea la exportación,
+para determinados destinos, es obligación del productor registrar la tarjeta de
+identificación individual (TRI), la cual contiene la información correspondiente de
+cada animal desde su nacimiento hasta la venta de su carne.
+Se incorpora a la trazabilidad la diferenciación entre “establecimiento proveedor de
+ganado habilitado para faena de exportación” y “establecimiento de origen”, siendo
+las exigencias sanitarias distintas para cada caso en particular.
+El movimiento de ganado, con cualquier destino: sea parcial o final, se realiza a
+través de la emisión del documento único de tránsito electrónico (Dte). En el mismo
+se detalla los datos del emisor y del receptor, la cantidad de animales remitidos,
+RENSPA y CIUG del establecimiento agropecuario, el consignatario que interviene
+(en caso de que lo hubiera), datos del transporte (si fuera posible cargar la
+información al momento de emitir el documento), fecha de emisión del documento,
+fecha de carga y vencimiento.
+Es responsabilidad del productor entregar la documentación al transportista que
+ampara el movimiento de los animales.
+Actor Transportista
+El actor transportista es el responsable de unir la trazabilidad entre el origen y el
+destino de los animales.
+42
+El vehículo, además de contar con la documentación habitual obligatoria a
+disposición, debe estar registrado en SENASA con su número de habilitación de
+transporte. A su vez, el chofer del vehículo debe contar con su documentación
+personal obligatoria que permite identificarlo y lo habilita como conductor.
+El vehículo para transportar hacienda debe ser lavado y desinfectado antes de la
+carga y después de la descarga de los animales, en los lavaderos habilitados por la
+autoridad sanitaria. El lavadero debe entregar al transportista el certificado único de
+lavado y desinfección de transporte de hacienda en pie (CULID), el cual debe ser
+presentado al propietario de los animales previo a la carga. El lavado de la unidad
+es registrado en el sistema sanitario.
+A los fines del sistema de trazabilidad, un actor puede ser origen del despacho de la
+hacienda o destino de los animales que recibe.
+El actor que realiza el despacho de la hacienda, origen - productor, feedlot, matarife,
+remate feria, mercado concentrador - debe ingresar los datos al sistema generando
+el documento sanitario que autoriza el movimiento de los animales desde el origen
+hasta el destino.
+El documento de tránsito habilitado para ser emitido es identificado con un código
+de barras, Clave Única de Identificación Electrónica (CUVE). A los fines del sistema
+de trazabilidad el Dte se encuentra en la condición de emitido.
+El productor debe entregar al transportista la documentación generada. Una vez
+arribada la hacienda remitida, previo a la descarga de los animales, el responsable
+del transporte debe entregar el Dte. El receptor de los animales en el destino
+ingresa al sistema de trazabilidad la recepción de la documentación. La condición
+del Dte pasa a la condición de cerrado (es decir, cuando se considera arribado).
+Actor Consignatario
+A los fines del sistema de trazabilidad sanitaria, el actor consignatario interviene
+como representante del productor, y es identificado como autogestor. Esta condición
+requiere de la aprobación previa del productor ante la autoridad sanitaria.
+La actividad del actor consignatario puede realizarse en el ámbito de un predio de
+remate feria y/o mercado concentrador de hacienda, y cumple con la doble
+condición de ser origen y destino cada vez que ocurre un evento concentrador de
+hacienda. Dicho de otra manera, el responsable del evento es quién emite y cierra el
+documento de tránsito electrónico.
+En las operaciones de compra-venta, en donde no hay eventos concentradores de
+hacienda, el actor consignatario autogestor realiza la emisión del Dte cumpliendo
+toda la normativa vigente bajo la condición de origen, es decir solamente emite la
+documentación de los animales que son despachados.
+43
+En el caso de los animales que recibe el establecimiento, es responsabilidad del
+productor o por quién él designe como representante ante la oficina de SENASA,
+ingresar al sistema sanitario el arribo de los animales, modificando la condición del
+Dte emitido en origen a la condición de cerrado. De esta manera los animales
+recibidos son incorporados al stock de hacienda del establecimiento receptor.
+Los predios de remate feria y los mercados concentradores deben estar registrados
+en el sistema sanitario, para ello se les asigna un número único e irrepetible de
+habilitación del predio.
+Para la realización de un evento de remate feria y/o mercado concentrador en un
+predio previamente habilitado, el consignatario solicita autorización ante las
+autoridades municipales, provinciales y sanitarias. Este evento con su fecha y lugar
+definidos se autoriza en el sistema de trazabilidad.
+El documento sanitario que se emite desde el origen debe informar el tipo de
+movimiento que se realiza, remate feria o mercado concentrador, consignatario que
+interviene y el destino que tendrá la hacienda remitida.
+Una vez arribados los animales a las instalaciones, la documentación entregada por
+el transportista es recibida por el responsable de la recepción. Es responsabilidad
+de éste ingresar en el sistema sanitario el arribo de los animales, modificando la
+condición del Dte cerrado, y dando ingreso a los animales al stock de hacienda del
+evento que se realizará. Los predios pueden contar con un sistema de trazabilidad
+propio en donde se registra la información en el transporte, hora de llegada,
+cantidad de animales y categoría; estos sistemas tienen la finalidad de ser
+informativos y de carácter organizativo.
+En caso de que los animales recibidos debieran cumplir con una exigencia sanitaria
+diferente para poder ser subastados, es responsabilidad del consignatario cumplir
+con la normativa sanitaria vigente.
+Finalizada la subasta el consignatario realiza la emisión de los documentos
+sanitarios requeridos según el destino que tengan los animales. El predio de remate
+feria y/o mercado concentrado es emisor de los Dte bajo la condición de origen,
+siendo su responsabilidad entregar la documentación requerida para el transportista.
+El receptor de los animales debe registrar en el sistema de trazabilidad sanitario el
+arribo de los animales a fin de dejar el Dte en la condición de cerrado.
+Es de suma importancia para la trazabilidad de los animales los cambios de
+condición del Dte, entiéndase de emitido a cerrado, ya que se registran todos los
+movimientos que realizan hasta su destino final.
+44

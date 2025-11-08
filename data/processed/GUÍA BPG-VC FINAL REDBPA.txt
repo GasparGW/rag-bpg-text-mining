@@ -1,0 +1,874 @@
+Buenas Prácticas Ganaderas
+Guía para la implementación en la
+producción de ganado vacuno de
+carne
+Comisión de Ganadería redBPA
+Año 2019
+Contenido
+¿Qué son las Buenas Prácticas Ganaderas de Vacunos de Carne? 3
+¿Qué se busca con esta guía? 3
+¿A quién está dirigida esta guía? 3
+¿Cómo está organizada esta guía? 5
+¿Cómo implementar BPG-VC? 6
+LAS PERSONAS Y LA EMPRESA 8
+1. Organización de la empresa 8
+2. Personal 10
+LA INFRAESTRUCTURA DE PRODUCCIÓN 12
+3. Establecimiento ganadero 12
+4. Instalaciones, equipos y herramientas 13
+EL AMBIENTE Y LA PRODUCCIÓN 16
+5. Suelo 16
+6. Agua 17
+7. Forrajes 18
+8. Gestión de estiércol y efluentes 19
+9. Gestión de los residuos 20
+10. Adaptación y mitigación al cambio climático 20
+EL ANIMAL Y SU MANEJO 21
+11. Manejo de rodeo 21
+12. Alimentación 22
+13. Salud animal 25
+14. Bienestar animal 28
+¿Qué son las Buenas Prácticas Ganaderas de Vacunos de
+Carne?
+Se entiende por Buenas Prácticas Ganaderas de vacunos de carne (BPG-VC) a todas las acciones
+involucradas en la producción ganadera, su comercialización y transporte en pos de obtener productos
+inocuos, que promuevan la sustentabilidad social, ambiental y económica del sistema.
+Son el resultado del trabajo conjunto de la comunidad de interesados sobre cuáles son las mejores
+prácticas de acuerdo al conocimiento disponible. Debido a que el conocimiento avanza y/o se modifican las
+demandas de la sociedad, las BPG-VC deben actualizarse.
+La implementación de las BPG-VC desafía a las empresas a la búsqueda de la excelencia a través de la
+definición de objetivos, protocolos, acciones y estableciendo indicadores con los que luego se evaluarán las
+mismas. Incorporar BPG-VC colabora como guía en el ordenamiento de los procesos permitiendo
+establecer niveles progresivos de adopción, facilitando el aprendizaje y la mejora sistemática y continua.
+Se destaca la importancia de la implementación de BPG-VC desde el inicio de la producción y en cada una
+de las etapas para evitar o disminuir inconvenientes y riesgos difíciles o imposibles de revertir.
+Las BPG-VC presuponen el cumplimiento de la normativa vigente. Es responsabilidad de la persona
+interesada en su implementación, el conocimiento y seguimiento de la normativa que corresponda a su
+área.
+¿Qué se busca con esta guía?
+La guía tiene como finalidad establecer los criterios generales de la producción de vacunos de carne que
+resulten en la obtención de productos inocuos de una forma sostenible, considerando las dimensiones:
+económica, ambiental y social. Da un marco, de qué hacer, dando la posibilidad de llevarlo a la práctica
+según las particularidades de cada región y establecimiento. A su vez, busca identificar procesos claves que
+faciliten la implementación de los mismos.
+Esta guía enumera las distintas acciones en
+la producción ganadera de vacunos de
+carne, es un documento dinámico y puede
+enriquecerse con particularidades de cada
+sistema productivo. El transporte y la
+comercialización serán tratados en guías
+específicas.
+Este documento es producto del consenso entre los diversos actores de la cadena de carne vacuna,
+atendiendo a las distintas miradas del sistema agroalimentario. El mismo recorre los procesos de la
+producción de vacunos de carne, señalando los requisitos a implementar para lograr el cumplimiento de las
+BPG-VC. Se resalta la importancia de que el resto de los eslabones continúen con las mismas en sus
+procesos.
+¿A quién está dirigida esta guía?
+Esta guía está dirigida a todos los productores de vacunos de carne, independientemente de la escala de
+producción que posea su empresa.
+El productor ganadero podrá definir cuáles de los requisitos en esta guía podrá implementar según los
+objetivos productivos, las características y las prioridades que la empresa considere. Las BPG-VC no buscan
+reemplazar lo ya hecho, sino potenciar las prácticas bien encaminadas y re-encauzar las acciones a mejorar.
+¿Cómo está organizada esta guía?
+Con el fin de organizar su abordaje, el contenido se dividió en cuatro secciones temáticas (Figura 1). Se
+sugiere el siguiente orden para su lectura, sin embargo, el productor puede comenzar por cualquiera de
+ellas:
+Las personas y la empresa;
+La infraestructura de producción;
+El ambiente y la producción;
+El animal y su manejo.
+Figura 1. Requisitos para el diagnóstico de BPG-VC.
+¿Cómo implementar BPG-VC?
+La decisión de implementar BPG-VC surge de la necesidad de hacer las cosas bien, de forma sustentable y
+poder demostrarlo; requiere una mirada sistémica y cierto grado de organización de la empresa,
+independientemente del tamaño de la misma.
+La implementación de las BPG-VC requiere del compromiso de todas las personas involucradas en el
+proceso. De ellas depende la ejecución de tareas, resolución eficaz de problemas, gestión y planificación de
+acciones, según las funciones y responsabilidades definidas.
+Debe plantearse como un proceso de mejora constante, con objetivos alcanzables y evaluables. El tiempo
+de ejecución y la duración de cada acción planificada dependerán de las características propias de la acción,
+el sistema de producción, los recursos asignados y el tiempo acordado para este proceso.
+La implementación consta de 3 etapas (Figura 2) que se retroalimentan: Caracterización y diagnóstico de
+situación, planificación y una tercera etapa que incluye la ejecución, evaluación y seguimiento. Los
+requisitos establecidos en esta guía son de utilidad para el abordaje de cada etapa en los diferentes temas
+referidos a la producción de carne vacuna.
+Figura 2. Etapas en la implementación de las BPG-VC
+Caracterización y diagnóstico de situación
+El primer paso en la implementación de BPG-VC consiste en conocer, caracterizar y evaluar las acciones que
+se llevan a cabo en el sistema productivo del establecimiento. El paso siguiente es identificar los puntos de
+mejora, para luego definir sobre cuáles de ellos empezar a trabajar según las características y prioridades
+que la empresa considere. Las BPG-VC no buscan reemplazar lo ya hecho, sino potenciar las prácticas bien
+encaminadas y re-encauzar las acciones a mejorar.
+Planificación
+Constituye la base que permitirá ejecutar correctamente las BPG-VC que se busquen implementar. Consiste
+en la elaboración de un plan en el tiempo donde se detalle qué acciones se implementarán, de qué manera
+y cuándo se llevarán a cabo.
+Se deben llevar adelante una planificación, que incluya los indicadores claves para cumplir con los objetivos
+propuestos.
+La planificación debe fijar plazos y períodos más o menos constantes (semestral, anual, bienal o
+quinquenal) que permitan hacer comparaciones y análisis que faciliten el aprendizaje.
+Ejecución, seguimiento y evaluación
+Es importante llevar adelante el sistema de seguimiento y evaluación de lo planificado. Esto significa seguir
+normativas vigentes y protocolos establecidos en el plan, así como llevar registros de lo realizado, que
+faciliten el monitoreo de la continua aplicación de las BPG-VC. Esto permite evaluar la implementación,
+aprender del proceso, demostrar cómo se trabaja y facilitar la mejora continua.
+Las personas y la empresa
+1. Organización de la empresa
+La planificación constituye la base que permite ejecutar correctamente en el futuro las prácticas que se
+pretendan. La gestión es la puesta en marcha de lo planificado. El establecimiento debe planificar los
+procesos que considere claves para cumplir con la misión y visión u objetivos propuestos por la
+empresa. Los valores serán los que regirán las conductas a tener en todas las acciones a implementar.
+En este capítulo se abordan acciones que pautan las consideraciones a tener al momento de la
+planificación y gestión en la empresa ganadera.
+Planificación en la empresa
+1.1. La empresa debe tener una planificación que incluya los procesos claves para cumplir con los
+objetivos que la misma se proponga alcanzar. Esta planificación debe considerar aspectos
+productivos, económicos, patrimoniales, financieros, ambientales, sociales, organizacionales y de
+equipo de trabajo, legales e impositivos.
+1.2. Debe incluir una primera etapa de evaluación y diagnóstico con la información disponible, una
+segunda etapa de formulación de opciones, y por último la selección de la mejor alternativa
+viable.
+1.3. Se deben evaluar y prever los impactos y acciones ante posibles variaciones del plan por
+cuestiones climáticas, económicas u otras que comprometan los logros de los objetivos.
+1.4. Se deben cumplir los requisitos del mercado de destino para un establecimiento ganadero,
+cuando corresponda.
+Gestión: ejecución de la planificación y control
+1.5. Se deben realizar los planes de ejecución que contemplen descripción de procesos, el cronograma
+de acciones y sus responsables.
+1.6. Se deben establecer los datos a registrar que permitan el seguimiento y control del plan y el
+monitoreo de resultados parciales.
+1.7. Se deben fijar los canales de comunicación entre los distintos actores involucrados en la dirección,
+gestión y operación del plan.
+Resultados y aprendizajes
+1.8. Una vez ejecutado el plan, se debe recopilar la información generada durante el ejercicio para
+realizar la evaluación de los resultados en relación a los objetivos propuestos.
+1.9. Se deben analizar los procesos que se desarrollaron para identificar puntos de mejora, que
+permitan aprender de las experiencias para el abordaje de la siguiente planificación.
+Roles en la empresa
+1.10. Los roles deben estar definidos y documentados, aun cuando una persona ocupe más de un rol
+dentro de la empresa.
+Documentación
+1.11. Los planes, protocolos y registros deben estar disponibles, actualizados, completos y conservarse
+en la unidad de producción. Los datos que se generen en la empresa en cada proceso deben ser
+adecuadamente registrados, en documentos que permitan recolectar datos claves.
+1.12. Se debe garantizar la trazabilidad de la información, para tener un seguimiento completo de
+productos y procesos.
+Responsabilidad social empresarial (RSE)
+La responsabilidad social de la empresa (RSE) es el reflejo de la manera en que las empresas toman en
+consideración las repercusiones que tienen sus actividades sobre la sociedad, y en la que afirman los
+principios y valores por los que se rigen, tanto en sus propios procesos internos como en su relación con los
+demás actores1.
+Se resaltan las acciones que se llevan adelante desde la empresa para abordar este tema y alcanzar
+impactos positivos en el entorno, pero se considera su adopción como una alternativa dentro la
+organización de la empresa.
+El abordaje de los requisitos en capítulos posteriores ahonda en las prácticas ganaderas sustentables que
+completarán el marco de acciones a realizar para alcanzar una empresa socialmente responsable.
+1.13. Se deben definir los objetivos y los valores que regirán la conducta y las decisiones de la empresa.
+Los mismos deben ser comunicados e incorporados en todos los procesos de trabajo, actitudes y
+comportamiento de las personas que la integran.
+1.14. Se debe asumir el compromiso con dichos valores y conductas para promoverlo entre los
+asociados externos y proveedores de la empresa.
+1.15. Se debe garantizar que todas las operaciones estén de acuerdo a la normativa vigente, y
+promuevan la transparencia de todos los procesos.
+1.16. La empresa debe contar con políticas internas que demuestren su compromiso con las personas
+que trabajan en la misma y con entorno.
+1.17. Se debe garantizar la calidad de vida laboral de las personas involucradas en la empresa, el trabajo
+decente, la seguridad y salud en el ámbito laboral.
+1.18. Se deben respetar los derechos humanos con compromiso con el futuro de los niños, la diversidad
+y equidad. Se deben impedir todas las formas de discriminación, así como el trabajo infantil en la
+empresa y su entorno.
+1.19. Desde la empresa, se debe ejercer y promover el ejercicio de los derechos y obligaciones como
+ciudadanos.
+1 Iniciativa In Focus sobre responsabilidad social de la empresa, 2006.
+1.20. A la hora de seleccionar un proveedor, se debe promover el pleno cumplimiento de la normativa
+vigente. Además, se debe tener en cuenta en los criterios de selección, que los valores del
+proveedor estén alineados a la gestión de sustentabilidad, priorizando a los que promuevan el
+desarrollo local.
+1.21. Se deben establecer reglas explícitas para ordenar las relaciones con clientes y otros productores
+abarcando temas relativos a conflictos de intereses, pago justo y combate al fraude y el soborno,
+entre otros.
+1.22. La empresa debe velar por la inocuidad de los productos que brinda al mercado.
+1.23. Se debe gestionar el impacto de la empresa en la comunidad de entorno, identificando los
+impactos positivos para promoverlos y los negativos para evaluar mecanismos para minimizarlos.
+2. Personal
+Las personas, son actores clave en el desarrollo de la actividad y la sustentabilidad de las empresas. De ellos
+depende la ejecución de tareas, la resolución de problemas de manera eficaz, la gestión y planificación de
+prácticas, según las funciones y responsabilidades definidas.
+En este capítulo las BPG-VC tienen como objetivo identificar, ordenar y mejorar las acciones que
+garanticen el bienestar, la seguridad y la salud de las personas involucradas en la producción ganadera del
+establecimiento.
+Bienestar, seguridad y salud del personal
+2.1. Se debe designar un responsable de la empresa para los asuntos relacionados con el bienestar, la
+seguridad y la salud de las personas.
+2.2. El personal del establecimiento debe contar con una libreta sanitaria actualizada, de acuerdo con
+la normativa vigente.
+2.3. Todo trabajador debe comunicar a sus superiores cualquier enfermedad o herida que produzca.
+2.4. El personal debe ser provisto de la ropa de trabajo, los elementos y el equipamiento de protección
+necesarios de acuerdo al tipo de tarea que realice, y requerir su utilización.
+2.5. La ropa o indumentaria de trabajo y de protección deben cumplir con la normativa vigente y
+deben guardarse separados de los productos fitosanitarios y veterinarios.
+2.6. Los elementos de protección personal deben ser conservados en condiciones adecuadas que
+aseguren su correcto estado y funcionamiento.
+2.7. El personal debe contar con elementos que permitan su higiene personal durante la jornada
+laboral.
+2.8. El personal involucrado en la manipulación de productos fitosanitarios, veterinarios o
+desinfectantes debe estar entrenado para tal fin. Se debe contar con la ficha de seguridad del
+producto manipulado y seguir las especificaciones dadas.
+2.9. Se debe disponer de una evaluación de riesgos que contemple los aspectos de bienestar,
+seguridad y salud de las personas que se encuentran en forma permanente, temporaria o
+eventual en el establecimiento.
+2.10. Se debe elaborar e implementar un plan de acción de bienestar, seguridad y salud de las personas,
+que gestione todos los riesgos reales o potenciales detectados en la evaluación. Protocolizar los
+pasos a seguir en cada caso de situación de riesgo.
+2.11. El establecimiento debe contar con señalización adecuada y de fácil comprensión sobre todos los
+riesgos de seguridad y salud de acuerdo al resultado de la evaluación de riesgo.
+2.12. El establecimiento debe contar con botiquines de primeros auxilios fijos y móviles, matafuegos y
+otros elementos, que dependerán de la evaluación de riesgo.
+2.13. Los protocolos a seguir en caso de accidentes deben ser claros y estar disponibles o visibles, en
+aquellos lugares identificados por la evaluación de riesgos. Se debe garantizar que en el
+establecimiento haya personas capacitadas en ejecutar dichos protocolos. El repaso o
+reentrenamiento en estas ejecuciones deben realizarse periódicamente.
+Registro y responsabilidades en la gestión de las personas
+2.14. La forma de contratación del personal, ya sea fijo como temporal, debe cumplir con la normativa
+vigente. Ambas partes deben contar con la documentación que así lo demuestre.
+2.15. Se debe disponer de registros completos y actualizados de todas las personas que realizan
+actividades en el establecimiento, ya sea de forma permanente o temporal.
+2.16. Se debe elaborar un organigrama y manual de responsabilidades del personal del establecimiento,
+donde se identifiquen funciones y responsabilidades de cada persona interviniente. Los mismos
+deben ser revisados periódicamente con los equipos de trabajo y estar en un lugar visible con
+acceso de todo el personal del establecimiento.
+2.17. Cuando se contraten servicios a terceros, se debe corroborar que todo el personal interviniente
+tenga la cobertura de riesgo correspondiente. Además, debe cumplimentar los puntos de
+seguridad establecidos para el personal de la empresa.
+Gestión del personal
+2.18. Se debe definir una política de gestión del personal que concilie los intereses de la organización
+con los de sus empleados.
+2.19. Se debe establecer un plan para el desarrollo laboral del personal que trabaja en la empresa,
+alineado a los objetivos de la organización.
+2.20. Se deben definir e implementar los mecanismos de comunicación entre los diferentes actores del
+establecimiento, que garantice una comprensión clara de las funciones y responsabilidades y un
+intercambio efectivo de las ideas, demandas y necesidades.
+2.21. Se deben establecer las prácticas que le permitan al personal del establecimiento un balance
+entre lo laboral y el desarrollo personal.
+Capacitación del personal
+2.22. Se debe asegurar que el personal tenga la competencia necesaria para el desarrollo de sus
+funciones y responsabilidades.
+2.23. Se debe tener un plan de capacitación integral para el personal actual e ingresante, según las
+funciones y responsabilidades asignadas, e incluir formación en seguridad e higiene laboral,
+protección del ambiente y bienestar animal.
+2.24. Se debe disponer de registros de las capacitaciones realizadas. Se debe evaluar periódicamente
+los aprendizajes para programar las futuras capacitaciones o actividades de reentrenamiento.
+La infraestructura de producción
+3. Establecimiento ganadero
+El establecimiento refiere al espacio físico donde se lleva a cabo la actividad productiva ganadera, para lo
+cual se requiere una correcta caracterización y gestión. Las BPG-VC en la gestión del establecimiento tienen
+como objetivo identificar, ordenar y mejorar las acciones que garantizan su adecuado cumplimiento.
+3.1. Se debe contar con un mapa o croquis con la ubicación/emplazamiento del establecimiento
+detallando apotreramiento, instalaciones, accesos, fuentes hídricas, ambientes, suelos y/o demás
+características que puedan ser pertinentes a considerar para la producción ganadera.
+3.2. Se debe identificar, de manera inequívoca, la unidad de manejo de la superficie en producción.
+3.3. El diseño del sistema de producción debe considerar las características del agro-ecosistema
+(bioma: suelo, clima, flora, fauna).
+3.4. Se debe cumplir con la normativa vigente para un establecimiento ganadero.
+4. Instalaciones, equipos y herramientas
+Las instalaciones son todas las obras de infraestructura dentro del establecimiento que dan soporte a la
+actividad ganadera.
+Es necesario que tanto las instalaciones como los equipos sean apropiados de forma que promuevan el
+bienestar y la seguridad de las personas, de los animales y el cuidado del ambiente.
+Las BPG-VC en la gestión de las instalaciones y equipos tienen como objetivo promover el adecuado diseño,
+elección y mantenimiento de las mismas, para que cumplan con los objetivos que se le asignan.
+General
+4.1. Las instalaciones deben ser diseñadas o acondicionar las preexistentes, considerando el propósito
+de su uso, la comodidad y seguridad de los operarios, la conducta y el comportamiento de los
+animales, su bienestar, y el cuidado del ambiente.
+4.2. Las instalaciones deben estar localizadas en zonas con drenaje y acceso adecuados.
+4.3. Los equipos y/o herramientas utilizados para el manejo del rodeo y la implementación de
+prácticas establecidas deben ser los adecuados a fin de evitar impactos sobre el bienestar animal y
+la seguridad del personal interviniente.
+4.4. Los equipos y/o herramientas deben usarse de acuerdo a las recomendaciones del fabricante.
+Higiene y mantenimiento
+4.5. La higiene y el mantenimiento de las instalaciones, equipos y herramientas deben garantizar su
+objetivo de funcionamiento y que no presenten un riesgo para la integridad de los animales y las
+personas que los utilicen.
+4.6. Se debe elaborar e implementar un plan de higiene y mantenimiento de instalaciones, equipos y
+herramientas que incluya objetivo, cronograma, y protocolos.
+4.7. Se debe poseer un registro de tareas realizadas y productos utilizados para higiene y
+mantenimiento de instalaciones, equipos y herramientas.
+4.8. Los productos deben estar aprobados por la autoridad competente, para el uso previsto y deben
+ser aplicados según la normativa vigente y/o las recomendaciones del fabricante.
+4.9. Las personas involucradas en la higiene y el mantenimiento deben estar capacitadas para este fin.
+Alambrados, cercos y tranqueras
+4.10. Se deben construir o acondicionar con materiales que no presenten riesgos para los animales ni
+las personas, sin salientes (púas, astillas, bisagras, bulones, clavos, tuercas, entre otros) y con sus
+bordes redondeados.
+4.11. Las tranqueras perimetrales deben permanecer siempre cerradas.
+4.12. Los alambrados eléctricos deben diseñarse, instalarse, utilizarse y mantenerse de manera tal que
+durante el manejo los animales reciban el impacto adecuado y suficiente para el aprendizaje por
+reflejo condicionado.
+4.13. Los alambrados eléctricos se deben verificar periódicamente para asegurar su correcto
+funcionamiento, para corregir ineficiencias (por malezas u otros).
+Corrales de trabajo
+4.14. Se deben diseñar, construir y ubicar de manera que garanticen el encierro y manejo seguro y ágil
+de los animales y las personas. Se deben construir en lugares elevados. Los corrales preexistentes
+deben acondicionarse siguiendo estas premisas.
+4.15. Los cercos, puertas o tranqueras deben cumplir con los requisitos antes detallados.
+4.16. El piso del corral debe ser sin pendiente o levemente positiva en sentido del avance,
+antideslizante y poco agresiva para las pezuñas, sin salientes, pozos, charcos o piedras.
+4.17. Cuando se lo requiera, deben contar con agua para bebida y sombra para mayor confort de los
+animales.
+4.18. Cuando se posee un corral para partos, debe estar cercano a las instalaciones principales para un
+adecuado seguimiento.
+Corrales de alimentación
+4.19. Los corrales de alimentación de ganado confinado o semi-confinado deben cumplir con la
+normativa vigente y poseer un tamaño tal que permita al animal desarrollar sus actividades en
+forma confortable y segura.
+4.20. Deben tener una pendiente adecuada para evitar el encharcamiento y que los efluentes evacuen a
+canales colectores.
+4.21. Los comederos deben poseer un frente de acceso y tamaño que guarde relación con el consumo
+animal, el contenido de humedad del alimento, su densidad y frecuencia diaria de alimentación.
+4.22. Los comederos deben estar ubicados priorizando el fácil acceso de los animales y el confort y
+seguridad de los operarios, para realizar las tareas de abastecimiento y mantenimiento de los
+mismos.
+Gestión de efluentes y estiércol
+4.23. El sistema de gestión de efluentes y estiércol debe adecuarse a la normativa vigente.
+4.24. El estiércol de los corrales debe almacenarse en un lugar predeterminado, impermeabilizado
+natural o artificialmente y preparado para el uso previsto.
+4.25. La construcción y mantenimiento del sistema de gestión de efluentes debe tener en cuenta el
+clima, la cantidad generada en distintas épocas del año y considerar un margen de seguridad
+acorde a los volúmenes producidos.
+Manga, cepos, casillas de operaciones, balanza, embarcadero
+4.26. Se deben diseñar, instalar y/o acondicionar las preexistentes de manera tal que permitan trabajar
+en interconexión como si fueran un solo conjunto, con salidas laterales si se quiere evitar operar
+con alguno de ellos.
+4.27. Se deben diseñar o adaptar de forma tal que favorezca el desplazamiento fluido y seguro de los
+animales, evitando espacios abiertos en el piso y los laterales.
+4.28. Deben poseer pisos antideslizantes, sin salientes y paredes ciegas, evitando claroscuros y
+distracciones en los animales.
+4.29. Las casillas de operaciones deben tener el número necesario de puertas para trabajar debajo,
+detrás y en ambos flancos del animal. Deben permitir el libre paso del operario delante de la
+cabeza del animal.
+4.30. El cepo debe permitir inmovilización de los animales, con cierre gradual para evitar golpes.
+4.31. La rampa del embarcadero debe tener una pendiente de desplazamiento adecuada e idealmente
+y un tramo final horizontal.
+Depósitos y galpones generales
+4.32. Deben estar diseñados y construidos de acuerdo a la función que cumplan (tener en cuenta techo,
+piso, ventilación y/o iluminación).
+4.33. Cuando sea necesario, se debe disponer de un depósito específico para residuos (para evitar la
+proliferación de plagas y contaminaciones potenciales) y alejado de instalaciones y animales.
+Sistema de abastecimiento de agua
+4.34. Se debe diseñar y construir el sistema de almacenamiento y abastecimiento de agua en función de
+la demanda planificada en cantidad y calidad, considerando las características climáticas.
+4.35. Las aguadas y los bebederos se deben diseñar y construir con criterios que aseguren la eficiente y
+segura captación y almacenamiento del agua, teniendo en cuenta la vida útil de la infraestructura.
+4.36. Las aguadas y los bebederos se deben emplazar en relación al apotreramiento del
+establecimiento.
+4.37. Los molinos, bombas de agua y bebederos deben funcionar correctamente y contar con
+mantenimiento acorde al uso.
+Caminos y callejones.
+4.38. Deben ser abovedados y contar con mantenimiento adecuado para evitar el encharcamiento y
+permitir la normal circulación de animales, personas, vehículos y/o maquinarias.
+4.39. Deben ser diseñados y mantenidos para evitar la erosión, cuando corresponda.
+Instalaciones para el personal
+4.40. Cuando se provean viviendas para el personal, éstas deben ser habitables y confortables para
+quienes las utilicen, garantizando los servicios, la seguridad y las comodidades necesarios.
+El ambiente y la producción
+5. Suelo
+El suelo es la base sobre la que se asienta la producción ganadera y el medio sobre el cual se producen los
+forrajes y cultivos destinados a la alimentación del rodeo. La cantidad y calidad de alimento a producir
+están directamente relacionadas a la salud del suelo.
+A partir de la caracterización, el diagnóstico de capacidad productiva y su disponibilidad de nutrientes, la
+gestión del suelo conlleva acciones para establecer un plan de manejo en una producción sustentable. El
+monitoreo de los indicadores permite corregir desviaciones en el plan, promoviendo la mejora continua en
+la gestión del recurso.
+Las BPG-VC en la gestión del suelo tienen como objetivo identificar, ordenar y mejorar las acciones que se
+realizan sobre este recurso en la actividad productiva.
+Caracterización y diagnóstico de capacidad productiva y disponibilidad de
+nutrientes del suelo
+5.1. Se debe caracterizar el suelo a partir de la información disponible a nivel de establecimiento y/o
+unidad de manejo (imágenes satelitales, datos de muestreos previos, cartas de suelos, mapa
+topográfico, historia de manejo, entre otros) identificando su potencialidad y limitantes
+productivas.
+5.2. Se debe realizar una evaluación de riesgo de degradación del suelo caracterizado en sus
+propiedades físicas, químicas y biológicas.
+5.3. Para el diagnóstico de disponibilidad de nutrientes se debe cumplimentar con los requisitos
+enunciados en Buenas Prácticas Agrícolas - Cultivos Extensivos de la red BPA.
+Plan de manejo
+5.4. Se debe elaborar e implementar un plan de manejo del suelo que permita alcanzar los objetivos
+productivos del establecimiento considerando las condiciones agroecológicas y climáticas para
+mitigar los riesgos de degradación.
+5.5. Se debe tener en cuenta la capacidad productiva del suelo para cada acción que se lleve a cabo.
+5.6. El plan de manejo del suelo debe respetar la normativa vigente y cumplimentar con los requisitos
+enunciados en Buenas Prácticas Agrícolas - Cultivos Extensivos de la red BPA.
+5.7. Se deben establecer indicadores de salud de suelo para su monitoreo: detallando metodología y
+periodicidad de evaluación. Los resultados deben registrarse y analizarse para el seguimiento del
+plan.
+5.8. Las técnicas de pastoreo y otras prácticas deben propender a la conservación del suelo en todas
+sus propiedades.
+6. Agua
+El agua es un recurso indispensable debe ser gestionada por tanto de manera adecuada. En este capítulo se
+establecen las prácticas que promuevan el uso eficiente del agua y eviten la contaminación y salinización de
+las fuentes de agua del establecimiento, satisfaciendo la demanda de las personas, los animales y otras
+necesidades de la producción en calidad, disponibilidad y accesibilidad.
+Las BPG-VC en la gestión del agua tienen como objetivo promover las acciones que permitan un adecuado
+uso del recurso hídrico en el marco de la actividad productiva.
+General
+6.1. Se debe cumplir con la normativa vigente en relación a la extracción y el uso del agua.
+6.2. Se debe utilizar el recurso de manera adecuada y eficiente para garantizar tanto su disponibilidad
+como su funcionalidad.
+6.3. Se debe prever la disponibilidad en calidad y cantidad suficiente de acuerdo a la demanda de las
+personas, los animales y otros usos necesarios durante todo el ciclo productivo.
+6.4. Se debe evitar la contaminación y salinización de las fuentes de aguas naturales superficiales y/o
+subterráneas.
+6.5. Se recuerda la prohibición de la alteración de los cursos naturales de agua.
+Calidad del recurso hídrico
+6.6. Se deben identificar posibles riesgos de contaminación de todas las fuentes de agua presentes,
+distinguiendo las que se utilizan para el consumo humano y animal.
+6.7. Deben tomarse las medidas necesarias para proteger las fuentes de agua de daños y
+contaminación, tanto por el uso humano como por la interacción de la hacienda.
+6.8. Se debe analizar la calidad del agua (parámetros microbiológicos, químicos, físicos y de
+contaminación mineral) de manera periódica. Al momento de establecer la frecuencia de dichos
+análisis es importante tener en cuenta el uso que se le dará y los riesgos de contaminación
+identificados.
+6.9. Los análisis de agua deben efectuarse en un laboratorio competente. Los resultados deben
+documentarse y compararse con valores de referencia.
+Agua para consumo humano
+6.10. Se debe garantizar la disponibilidad y accesibilidad de agua potable para todas las personas del
+establecimiento.
+6.11. Las fuentes de agua no aptas para el consumo humano deben estar identificadas de forma clara y
+visible.
+Agua para consumo animal
+6.12. Se deben disponer de cálculos documentados de los requerimientos de agua para el consumo
+animal por categoría, en función de su calidad y de su disponibilidad, considerando las fuentes de
+agua del establecimiento.
+6.13. Se debe evaluar y documentar el riesgo de que la demanda no sea satisfecha. Cuando exista este
+riesgo, se debe establecer un plan de acción para afrontar la situación.
+6.14. Se deben establecer el modo y frecuencia de limpieza de bebederos. Se debe evaluar que los
+mismos se realizaron adecuadamente.
+Otros usos del agua en el establecimiento
+6.15. Se deben tomar las precauciones necesarias para que el agua de bebida no sea utilizada en
+equipos y elementos.
+6.16. Cuando se requiera, para la construcción de perforaciones de extracción de agua, además de
+cumplimentar con la normativa vigente, se debe seleccionar el lugar adecuado de manera que
+esté aislado de posibles fuentes de contaminación.
+6.17. En la utilización de agua para riego, se debe cumplir con los requisitos de gestión del agua
+enunciados en la Guía de Buenas Prácticas Agrícolas de la red BPA.
+7. Forrajes
+La gestión del forraje se vincula al manejo de especies vegetales que son destinadas al consumo animal.
+En este capítulo se enumeran acciones relacionadas al aprovechamiento del forraje para la producción de
+carne vacuna, considerando la sustentabilidad del agro-ecosistema donde se interviene. Esto incluye el
+manejo de la flora nativa y especies exóticas que se implantan para llevar adelante la producción ganadera,
+como también la interacción con la fauna propia del lugar.
+General
+7.1. Se debe identificar el tipo y estado de las especies forrajeras de interés para la alimentación
+animal presentes en el establecimiento y las que potencialmente se pueden adaptar al ambiente
+en el que se produce.
+7.2. Esa información se debe utilizar para la planificación forrajera, estimando la oferta forrajera que
+tendrá el establecimiento por estación productiva, para adecuar la carga y el manejo durante el
+año.
+7.3. El uso de productos y aplicaciones fitosanitarias a realizar deben planificarse considerando el
+ambiente, las personas, y los animales. La elección, manipulación, aplicación y almacenamiento de
+los productos deben cumplimentar los requisitos enunciados en Buenas Prácticas Agrícolas,
+Cultivos Extensivos de la red BPA.
+7.4. Se debe relevar la existencia de plantas tóxicas para el ganado vacuno y establecer los
+mecanismos que eviten el consumo de las mismas.
+7.5. El aprovechamiento forrajero debe considerar la convivencia entre la fauna nativa y doméstica,
+donde se respete la normativa vigente.
+Vegetación nativa
+7.6. Se debe cumplir con la normativa vigente, considerando la identificación de vegetación nativa
+para evitar su degradación.
+7.7. Cuando se utilicen bosques/montes nativos, se deben diseñar e implementar planes de manejo
+del bosque, para asegurar la sostenibilidad, a través de un adecuado aprovechamiento de los
+mismos.
+7.8. El manejo de los animales sobre la vegetación nativa debe llevarse a cabo promoviendo el uso
+sustentable de la biodiversidad de ésta, con particular atención en las especies más susceptibles al
+pastoreo y palatables para el ganado.
+Producción de forrajes y grano para consumo animal (praderas y cultivos
+forrajeros).
+7.9. Las prácticas que se realicen para la obtención de la producción forrajera del establecimiento
+deben cumplimentar con los requisitos enunciados en Buenas Prácticas Agrícolas, Cultivos
+Extensivos de la red BPA.
+7.10. Las técnicas de pastoreo deben propender a mantener el potencial y la calidad del recurso
+forrajero y manejar en forma sustentable el suelo.
+Manejo del fuego
+7.11. Cuando se crea fuego como herramienta de manejo del forraje, se debe realizar bajo la
+prescripción de un técnico especializado y cumplir con la normativa vigente.
+7.12. Se debe elaborar e implementar un plan de manejo del fuego prescrito a partir del asesoramiento
+técnico especializado.
+8. Gestión de estiércol y efluentes
+Ciertas situaciones de manejo o de comportamiento animal en sistemas ganaderos, generan concentración
+de animales en espacios reducidos, particularmente en manejos intensivos permanentes o transitorios de
+encierre de animales.
+Esto requiere evaluar los potenciales impactos ambientales de la concentración de excretas en los recursos
+hídricos superficiales (ríos, arroyos, lagunas) y subterráneos (napas), así como en el aire (olores molestos o
+aumento en la población de vectores).
+Las BPG-VC en la gestión del estiércol y efluentes tienen como objetivo identificar, ordenar y mejorar las
+acciones que se realizan en la actividad productiva.
+8.1. Se deben evitar los potenciales riesgos de contaminación del recurso hídrico y suelo por estiércol
+y efluentes.
+8.2. Se debe elaborar e implementar un plan de tratamiento de estiércol y efluentes que considere la
+recolección, el almacenamiento, el acondicionamiento, el tratamiento y el uso de los mismos.
+8.3. El sistema de tratamiento de efluentes debe estar adecuadamente aislado para evitar la potencial
+contaminación.
+9. Gestión de los residuos
+Las BPG-VC contemplan la adecuada gestión de los residuos y establecen los mecanismos para su
+manipulación, almacenamiento (ver Depósitos y galpones generales - Instalaciones) y disposición final.
+En este capítulo, se consideran residuos a los desechos domiciliarios, asimilables a domiciliarios,
+fitosanitarios, patogénicos y otros peligrosos. Se debe realizar una correcta separación de los
+residuos en el establecimiento.
+9.1. Cuando corresponda, se debe cumplir con los lineamientos indicados por la normativa vigente.
+9.2. Se deben seguir los protocolos recomendados de los fabricantes de fitosanitarios y productos
+veterinarios para la disposición de los residuos, poniendo atención y cumpliendo con la normativa
+acerca de la disposición de sus envases.
+9.3. Debe existir un área designada para el almacenamiento de los distintos tipos de residuos,
+adecuada para evitar toda clase de riesgo de accidentes y/o contaminación.
+10. Adaptación y mitigación al cambio climático
+En la actividad ganadera existen acciones que colaboran en la mitigación y adaptación al cambio climático.
+La adaptación se basa en llevar adelante acciones que tiendan a lograr un ajuste a los efectos del clima
+actual o futuro. La mitigación contempla acciones relacionadas con las causas del cambio climático. En este
+capítulo, se recomiendan prácticas de mitigación asociadas a la disminución de la intensidad de emisiones
+de gases de efecto invernadero (GEI) por cada kilogramo de carne producido.
+10.1. Se deben promover las prácticas que favorezcan el aumento de la productividad y eficiencia de los
+sistemas productivos, así como la recuperación de nutrientes y energía (por ej. alimentación,
+buenos índices de destete y de kg. de carne producidos por animal y hectárea.
+10.2. Se deben promover las prácticas que favorezcan el incremento del stock de carbono orgánico para
+mitigar los GEI emitidos por la actividad productiva.
+10.3. Se debe elaborar e implementar un plan de emergencia para minimizar y mitigar los efectos de los
+desastres naturales o las condiciones climáticas extremas, entre otros.
+El animal y su manejo
+11. Manejo de rodeo
+El manejo del rodeo consiste en prácticas y decisiones que se toman en relación a los animales enfocadas
+en alcanzar los objetivos productivos propuestos. Se consideran en las mismas el bienestar animal y la
+interacción con el ambiente, mejorando la gestión sustentable del establecimiento.
+Manejo general del rodeo
+11.1. Al momento de realizar cualquier práctica para cumplir con los objetivos productivos, se deben
+considerar las características del comportamiento del bovino para minimizar la generación de
+estrés.
+11.2. El establecimiento debe elaborar e implementar un plan productivo por escrito que establezca sus
+objetivos, que debe complementarse con el Plan Sanitario y el plan forrajero o alimenticio. Debe
+contar con un cronograma de prácticas según unidad de manejo y con los responsables asignados.
+(Ver Salud Animal).
+11.3. Se deben establecer unidades de manejo sobre las que se aplicará el plan productivo, procurando
+que sean homogéneas por origen, categoría, tamaño corporal y/o estado sanitario-nutricional.
+11.4. Se debe mantener unidades de manejo estables para evitar alterar el orden social establecido
+entre los animales. De lo contrario, adoptar prácticas para minimizar el impacto que estas
+modificaciones produzcan (ver Bienestar Animal).
+11.5. Se debe definir el método de identificación a utilizar que se ajuste a la normativa vigente y
+permita llevar los registros para evaluar y controlar el plan establecido por unidad de manejo.
+11.6. La unidad de manejo debe responder a los objetivos de producción. Se debe documentar el
+método de identificación a utilizar.
+11.7. Se deben registrar las prácticas realizadas por unidad de manejo/registro. Estos registros deben
+permitir la evaluación del comportamiento productivo del rodeo y su trazabilidad (Ver Gestión de
+la Empresa).
+11.8. Los procesos productivos y las prácticas, identificados en Salud animal, Manejo del Rodeo,
+Alimentación y Bienestar animal, deben documentarse y estar disponibles para su consulta,
+definiendo cuáles son los criterios que justifican la aplicación de la práctica y quiénes son los
+responsables de ejecutarla.
+11.9. Se debe llevar un registro de las existencias del rodeo por unidad de manejo/registro (número e
+identificación de animales, inventario general, ingreso y egreso según causa, entre otros).
+11.10. En caso de realizar prácticas de forma individual, se debe registrar e identificar de forma
+inequívoca aun cuando no haya seguimiento individual de los animales.
+11.11. Los animales se deben inspeccionar regularmente, con una frecuencia apropiada para
+evaluar su estado y la adecuada provisión de agua y alimentos.
+Manejo reproductivo
+11.12. El establecimiento debe elaborar e implementar un plan reproductivo por escrito
+adecuado para sus características y considerando potenciales contingencias que puedan
+presentarse. Debe complementarse con el plan sanitario y el plan forrajero o alimenticio. Debe
+contar con un cronograma de prácticas según unidad de manejo y con los responsables asignados.
+(Ver Salud animal). Este plan deben especificar y documentar los manejos reproductivos
+adecuados (temporada de servicios, tipos de servicio, diagnóstico de preñez, revisación de toros,
+atención del parto y recién nacido, etc.) y las enfermedades de impacto reproductivo (Ver Salud
+animal y Bienestar animal).
+11.13. El plan reproductivo documentado debe estar disponible, ser de fácil acceso para ser
+consultado por las personas involucradas en el mismo en el manejo del establecimiento, y en
+pleno conocimiento del responsable (Ver Salud animal).
+11.14. Se debe contar con un registro de prácticas realizadas de manejo reproductivo (servicio,
+preñez, abortos, parición, destete, porcentaje de toros, entre otros) y visitas del veterinario
+(tareas, diagnósticos, recomendaciones, tratamientos, entre otros) (Ver Salud animal).
+11.15. Se debe realizar un diagnóstico para determinar la entrada a primer servicio de animales
+jóvenes.
+11.16. Los toros deben recibir un examen andrológico (examen clínico y de laboratorio) que
+asegure su capacidad de servicio con tiempo suficiente para prever la reposición de animales. Es
+conveniente apartar los toros para este control y recuperación.
+11.17. Luego del periodo de servicio, el veterinario debe efectuar un diagnóstico de preñez y
+revisación ginecológica en todos los animales servidos para definir su manejo.
+11.18. Las hembras cercanas al parto deben estar bajo supervisión.
+11.19. El responsable de salud y bienestar animal del establecimiento (ver Salud animal), debe
+estar capacitado para la atención del parto y peri-parto e identificar cuando sea necesaria, la
+asistencia de un veterinario.
+11.20. Se deben identificar animales que abortaron o no presentaron ternero.
+11.21. En crías que perdieron a sus madres, se debe contar con un protocolo para cubrir sus
+requerimientos hasta que se alimenten por sí solas.
+11.22. Cuando el manejo del recién nacido lo permita, se debe controlar y desinfectar el cordón
+umbilical, considerando la época del año, el manejo y/o el criterio del veterinario.
+12. Alimentación
+El manejo de la alimentación es clave para alcanzar los objetivos productivos establecidos y un pilar
+fundamental en la salud y el bienestar animal. Las posibilidades son diversas tanto en el tipo de alimento
+como en la forma de ofrecerlo e implica diversos procesos que deben ser considerados en el
+establecimiento. Las BPG-VC para la adecuada gestión de la alimentación impactan en la salud, el bienestar
+animal y el resultado productivo.
+Manejo de la alimentación.
+12.1. Se debe elaborar e implementar un plan de alimentación que garantice requisitos nutricionales,
+asegure la cantidad ofertada y permita lograr los objetivos productivos planteados.
+12.2. Se debe evaluar y documentar la demanda mensual esperada de alimento de los animales. Se
+deben cubrir los requerimientos nutricionales de cada categoría de acuerdo a su estado
+fisiológico, tanto para el mantenimiento como para la ganancia de peso propuesta para cada
+unidad de manejo.
+12.3. Se debe evaluar y documentar la oferta planificada de alimento de acuerdo a la producción
+forrajera, de granos y silajes en el establecimiento. Se debe considerar su logística para garantizar
+la disponibilidad en tiempo y forma, en particular de los adquiridos fuera del establecimiento.
+12.4. Se debe evaluar el riesgo y establecer un plan de acción para las situaciones donde la
+productividad forrajera resultara menor a la planificada para evitar trastornos en la salud de los
+animales.
+12.5. El personal interviniente en la alimentación debe estar capacitado y poseer nociones básicas de
+enfermedades digestivas y su tratamiento (Ver Personas y Salud animal).
+12.6. El suministro de alimento, ya sea por pastoreo directo o entregado, debe ser una actividad
+sometida a monitoreo regular. Se debe mantener un registro que permita evaluar los resultados
+obtenidos.
+12.7. Se debe prevenir cualquier riesgo de contaminación física, química o biológica del alimento a
+consumir por el ganado.
+12.8. Los cambios en los regímenes de alimentación deben ser graduales, para no generar efectos
+negativos en la salud de los animales.
+12.9. Los equipos herramientas utilizados en la alimentación se deben limpiar regularmente (ver
+Instalaciones, equipos y herramientas).
+Manejo del pastoreo
+12.10. Se debe elaborar e implementar una planificación del pastoreo que satisfaga los
+requerimientos de los animales y que contemple los puntos mencionados en el capítulo de
+forrajes para especies nativas o exóticas según corresponda (Ver Forrajes). Esta planificación debe
+ajustarse frente a cambios estacionales en los patrones de crecimiento de las especies forrajeras.
+12.11. Cuando sea necesario, en sistemas de pastoreo rotativo, se debe disponer de callejones
+para el desplazamiento de los animales hacia y desde el lugar de pastoreo.
+12.12. Cuando se proporciona ración complementaria a animales en pastoreo, se deben
+cumplimentar los puntos detallados bajo el título Distribución de los alimentos.
+12.13. Cuando se apliquen fitosanitarios, se deben respetar los períodos de carencia de los
+productos utilizados previo al retorno de los animales al potrero considerando la normativa
+vigente.
+Entrega de alimentos
+12.14. Se deben utilizar alimentos y aditivos, que cumplan con la normativa vigente. Se recuerda
+que está prohibido utilizar proteína animal.
+12.15. Se deben llevar registros de la composición y entrega de alimento por unidad de
+manejo/registro.
+12.16. Los alimentos deben estar sujetos a controles de calidad periódicos previos al consumo de
+los animales. Los resultados deben registrarse y provenir de laboratorios competentes.
+12.17. Cuando los alimentos se elaboren en el establecimiento, se deben emplear
+procedimientos que prevengan la inclusión de componentes indeseables.
+12.18. Los alimentos que presenten indicios de contaminación por hongos se deben tratar de
+manera apropiada o no utilizarlos.
+12.19. Cuando se destinen para la alimentación granos tratados químicamente, solo deben
+utilizarse productos en dosis recomendadas y aprobados por la autoridad sanitaria competente.
+Distribución de alimentos
+12.20. Se debe asegurar un espacio adecuado de comedero, suficiente para que todos los
+animales, según su categoría y tipo, obtengan su ración de alimento con la mínima competencia
+posible.
+12.21. Se debe realizar y registrar la “lectura de comederos” para evaluar el consumo animal y la
+reposición. Cuando corresponda, se deben retirar los restos de alimentos de los comederos antes
+de llenarlos nuevamente.
+12.22. Debe evitarse la formación de pozos delante de los comederos que impliquen acumulación
+de agua, barro, desperdicios de alimentos y otros desechos que contaminen el ambiente y afecten
+la salud y el bienestar de los animales.
+Almacenamiento de alimentos
+12.23. Los alimentos deben ser almacenados en ambientes que favorezcan la buena conservación
+de sus propiedades y características. Deben estar claramente identificados y ser almacenados
+separadamente de otros productos evitando todo riesgo de contaminación cruzada.
+12.24. Los forrajes conservados (fardos, rollos, silos, entre otros) deben ser confeccionados
+siguiendo las prácticas que permitan lograr/mantener su máximo valor nutricional e inocuidad.
+12.25. Se debe prevenir el ingreso de plagas y animales a los lugares de almacenamiento.
+12.26. Se deben mantener actualizados los registros de ingreso, salida e inventario de alimentos
+almacenados.
+12.27. Los residuos de elementos utilizados en el almacenamiento deben gestionarse acorde a la
+normativa vigente, a fin de evitar la contaminación del ambiente (Ver Gestión de residuos).
+13. Salud animal
+Un adecuado manejo sanitario de los animales favorece la eficiencia del sistema, la salud y el bienestar
+animal, contribuye a la inocuidad y calidad de los productos y fortalece el proceso de comercialización a
+nivel regional, nacional e internacional. Las BPG-VC en la gestión de la salud animal tienen como objetivo
+identificar, ordenar y mejorar las acciones a realizar en la actividad productiva.
+Prevención y sanidad
+13.1. El establecimiento debe elaborar e implementar un plan sanitario establecido por un veterinario
+para la prevención, control y erradicación de enfermedades.
+13.2. El plan sanitario debe especificar las enfermedades y los tratamientos a realizarse, cumpliendo
+con la normativa vigente, así como aquellas de interés productivo.
+13.3. Debe estar disponible, ser de fácil acceso para ser consultado por las personas involucradas en la
+sanidad del establecimiento.
+13.4. Debe incluir un cronograma de revisión sanitaria por unidad de manejo para la prevención y
+control de enfermedades.
+13.5. Se debe contar con un registro de las visitas efectuadas por el veterinario, incluyendo
+diagnósticos, recomendaciones y tratamientos.
+13.6. Cuando se realicen tratamientos deben registrarse, indicando la fecha, animal o tropa, producto
+utilizado y período de carencia del mismo.
+13.7. Debe designarse y capacitarse entre el personal a un responsable de la salud y el bienestar animal
+del establecimiento.
+13.8. Se debe desalentar el ingreso de animales provenientes de establecimientos de sanidad
+desconocida o menor estatus sanitario, para prevenir la introducción de enfermedades.
+13.9. Los animales recién llegados al establecimiento deben mantenerse apartados de la población
+animal residente durante un período que permita su observación, a fin de detectar infestaciones y
+enfermedades e impedir su transmisión. El período depende de las enfermedades que se
+considere y durante dicho lapso puede ser necesario hacer análisis complementarios.
+13.10. Estos animales introducidos deben ser identificados con el mismo método y protocolo que
+los animales ya residentes y se les deben hacer los tratamientos preventivos indicados en el plan
+sanitario para evitar ingreso de nuevas enfermedades
+13.11. El semen, los óvulos y embriones deben provenir de fuentes sanas y seguras, debidamente
+acreditadas.
+13.12. Las instalaciones, equipos e instrumental veterinarios deben estar limpios, desinfectados y
+bien mantenidos.
+Manejo de animales enfermos
+13.13. Cuando se identifiquen síntomas de enfermedad, se debe informar al responsable de la
+salud y el bienestar animal, quien definirá y tomará las acciones necesarias, entre ellas, consultar
+al veterinario.
+13.14. Se debe disponer de corrales especiales para el monitoreo/aislamiento de los animales
+que se encuentren enfermos o en observación.
+13.15. Los animales bajo tratamiento veterinario deben estar debidamente identificados y
+ubicados en sitios donde se facilite su manejo y control. Si fuera necesario, los animales deben
+aislarse, de lo contrario deben identificarse visualmente.
+13.16. Se debe llevar un registro de cómo se identifica a los animales tratados con
+medicamentos, además de los números de identificaciones individuales o grupales.
+13.17. Cualquier tratamiento que incluya una práctica quirúrgica de un animal debe ser llevado a
+cabo por un veterinario o, si el nivel de complejidad lo permitiera, por personal capacitado para
+tal fin (ver Bienestar animal).
+13.18. Cuando muere un animal se debe identificar la causa de su deceso. De existir síntomas
+compatibles con enfermedades que puedan comprometer la salud del rodeo y/o el personal, se
+debe convocar al veterinario y/o médico humano según corresponda. Si se sospecha como causa,
+alguna enfermedad de denuncia obligatoria, se debe comunicar inmediatamente a la autoridad
+sanitaria competente.
+13.19. Se debe elaborar e implementar un protocolo para la disposición de desechos, restos
+placentarios, fetos y animales muertos, documentado, que contemple medidas de bioseguridad y
+de prevención de la contaminación ambiental.
+Manejo de medicamentos
+13.20. Los medicamentos adquiridos deben estar aprobados para su uso por la autoridad
+sanitaria competente.
+13.21. Los medicamentos para tratamiento usados por fuera del plan sanitario previsto, deben
+ser suministrados bajo prescripción del veterinario.
+13.22. El almacenamiento y transporte de productos veterinarios debe realizarse por separado de
+otros elementos y productos.
+13.23. Los medicamentos deben ser almacenados de acuerdo con las instrucciones de su etiqueta
+en su envase original. El acceso al lugar de almacenamiento debe ser controlado y debe contar
+con señales o símbolos de peligro que sean claros y visibles. Cuando se lo requiera, se debe
+garantizar la cadena de frío del medicamento en un refrigerador de uso exclusivo para productos
+veterinarios.
+13.24. Se debe contar con un inventario actualizado de stock de medicamentos.
+13.25. Se debe seguir la regla primero entra primero sale (PEPS) con la finalidad de utilizar
+siempre aquellos productos que ingresaron antes al almacén y evitar su inutilización por haberse
+cumplido la fecha de vencimiento.
+13.26. Previo a la administración de medicamentos se debe verificar que su fecha de
+vencimiento, condiciones de almacenamiento y empaque sean adecuadas. De lo contrario, el
+producto se debe desechar sin ser utilizado (Ver Gestión de los residuos).
+13.27. La dosificación de productos veterinarios debe hacerse en forma precisa siguiendo las
+recomendaciones de la etiqueta del producto. Los implementos a utilizar deben ser los adecuados
+según el medicamento y su aplicación debe respetar las indicaciones veterinarias y condiciones de
+bienestar animal.
+13.28. Cuando se trate de productos veterinarios antimicrobianos, la administración de estos sin
+un diagnóstico correcto, puede generar resistencia antimicrobiana. Se debe atender a lo indicado
+por el veterinario actuante y respetar dosis, intervalos y duración del tratamiento.
+13.29. Los envases vacíos de medicamentos no deben ser vueltos a utilizar. La eliminación de los
+mismos, al igual que los medicamentos vencidos o sobrantes, elementos cortantes, descartables y
+agujas, se deben gestionar correctamente minimizando los potenciales impactos y cumpliendo
+con la normativa vigente (Ver Gestión de los residuos).
+13.30. Se debe prevenir el contacto de animales con sustancias tóxicas o contaminantes químicos
+no aptos para uso animal, como productos fitosanitarios o industriales, y sus envases vacíos luego
+del uso.
+13.31. Cuando el personal manipule productos sanitarios, debe estar capacitado para ello y
+utilizar ropa y equipo adecuados.
+13.32. Se debe respetar el período de carencia para cada medicamento antes de vender o enviar
+un animal a su sacrificio para consumo. De lo contrario, debe informarse al comprador su
+condición y detalles del tratamiento.
+Manejo integrado de plagas
+13.33. Se deben identificar insectos, roedores u otros animales que puedan ser nocivos para el
+ganado. Para aquellas que se consideren relevantes, se debe elaborar e implementar un plan de
+manejo integrado de plagas que genere el menor impacto negativo al ambiente.
+13.34. Se deben identificar las zonas de riesgo de propagación de plagas en los alrededores del
+establecimiento.
+13.35. Se debe realizar el control y monitoreo de las plagas que se consideren relevantes.
+13.36. Se debe tener un registro de los productos y técnicas aplicados para el control de plagas.
+14. Bienestar animal
+Un adecuado bienestar animal resulta un requisito esencial para trabajar bajo BPG-VC. Las buenas
+condiciones para que los animales logren un adecuado bienestar implican: que se los produzca en
+situaciones de mínimo estrés, dolor y temor; que se les permita satisfacer sus necesidades nutricionales,
+sanitarias y comportamentales; que se prevengan sus enfermedades y se les administren tratamientos
+veterinarios apropiados; que se los maneje y sacrifique de manera humanitaria.
+Algunos de los próximos requisitos ya fueron abordados en capítulos anteriores de esta guía, sin embargo,
+se vuelven a presentar destacando su enfoque desde el bienestar animal.
+Las personas y la empresa
+Capacitación del personal
+14.1. Todas las personas involucradas en el manejo de los animales deben tener la idoneidad necesaria
+sobre aspectos básicos de bienestar animal, de acuerdo con sus responsabilidades.
+14.2. La formación del personal debe incluir conocimientos sobre producción de ganado,
+comportamiento del bovino, bioseguridad, signos generales de enfermedad y otros indicadores de
+falta de bienestar animal, como estrés, dolor e incomodidad, así como sobre la forma de aliviarlos.
+Plan de emergencia
+14.3. Se debe elaborar e implementar un plan de emergencia para los casos en que existan eventuales
+deficiencias en los sistemas de abastecimiento de electricidad, agua y alimento que puedan
+comprometer el bienestar animal, así como para minimizar y mitigar los efectos de los desastres
+naturales o las condiciones climáticas extremas.
+14.4. Se debe contar con un protocolo de sacrificio humanitario para los animales enfermos o heridos.
+La Infraestructura de producción
+Buen alojamiento
+14.5. Para promover el principio de buen alojamiento, el ambiente físico debe ser adecuado al biotipo y
+raza, tal que minimice el riesgo de estrés, lesiones y transmisión de enfermedades.
+14.6. El ambiente físico debe facilitar el descanso, la comodidad en los movimientos, las posturas
+corporales normales y oportunidades para expresar las necesidades comportamentales.
+14.7. El personal a cargo de los animales debe considerar el riesgo de estrés térmico (por calor o frío) y
+prever medidas para minimizar sus consecuencias sobre el bienestar animal.
+14.8. Las instalaciones para confinamiento de animales deben respetar la asignación de superficie
+adecuada para la raza, edad y estado fisiológico, teniendo en cuenta las condiciones del clima.
+14.9. El diseño, la construcción o el acondicionamiento de instalaciones y los materiales utilizados
+deben prevenir lesiones, facilitar la limpieza y desinfección, ofrecer ventilación y temperatura
+adecuadas, y permitir el manejo eficiente sin estrés para los animales.
+14.10. Se debe contar con un lugar de buen drenaje y cómodo para que los animales puedan
+echarse, descansar y desplazarse con facilidad.
+14.11. Las mangas deben tener una iluminación homogénea sin sombras ni contrastes de luz.
+El animal y su manejo
+Expresión de comportamientos normales
+14.12. Para promover la expresión de comportamientos normales, el agrupamiento social debe
+permitir interacciones positivas y minimizar las heridas, el estrés y el miedo.
+14.13. La constitución del grupo de animales debe ser tal que minimice el estrés social,
+considerando su composición y la cantidad de individuos. No es recomendable mezclar animales
+de distintas edades y características para que no se molesten entre ellos.
+14.14. Cuando se mezclen animales, debe asegurarse un espacio suficiente, de modo que los
+recién llegados puedan buscar zonas libres en caso de ser empujados o perseguidos.
+14.15. Dado que el grupo es la zona de seguridad de los animales, se debe evitar aislarlos de
+manera innecesaria.
+14.16. Se debe evitar el hacinamiento del ganado en corrales y áreas de manejo. El hacinamiento
+impide que los animales vean una salida clara, lo que frena su movimiento y estimula reacciones
+defensivas que pueden poner en riesgo a otros animales y al personal.
+14.17. Los movimientos de animales deben realizarse en grupos que estén acostumbrados a estar
+juntos.
+14.18. Se deben conocer las características comportamentales de la especie y considerar la zona
+de fuga y el punto de equilibrio para estimular el avance de los animales y orientarlos en la
+dirección deseada, manteniendo la velocidad adecuada.
+14.19. El manejo y la conducción de los animales debe ser calmo, sin maltratarlos, apurarlos, ni
+excitarlos. Deben utilizarse elementos que no generen heridas. Debe limitarse el uso de perros
+para el arreo a campo, dado que su presencia es un importante factor de estrés
+14.20. Se debe minimizar la exposición a ruidos fuertes o repentinos para prevenir reacciones de
+miedo y estrés.
+14.21. El destete debe realizarse con la mejor metodología disponible para minimizar el estrés
+sobre los animales.
+14.22. Se deben minimizar los tiempos de espera de los animales durante la jornada de trabajo.
+No se debe dejar al ganado encerrado en la manga u otros espacios pequeños mientras se
+interrumpe el flujo de trabajo, por cualquier razón. Los corrales de manejo son lugares de paso, no
+de estar.
+14.23. Las hembras próximas al parto deben estar bajo supervisión, ser movilizadas lo menos
+posible y permanecer en un ambiente tranquilo.
+Buena alimentación
+14.24. Para mantener el principio de buena alimentación, deben cumplimentarse los requisitos
+establecidos en el capítulo de Alimentación.
+14.25. Los animales deben tener acceso a comida y agua siendo ambas en cantidad suficiente y
+de buena calidad, para satisfacer sus necesidades fisiológicas, comportamentales y de producción,
+así como para prevenir o minimizar los desórdenes metabólicos y nutricionales.
+14.26. Cuando las condiciones climáticas impidan el acceso a una alimentación que responda a
+las necesidades fisiológicas diarias de los animales y esta situación se prolongue en el tiempo, se
+deben implementar medidas para mitigarlas (por ej. aporte de forraje y granos de origen externo).
+14.27. Se debe considerar un período de acostumbramiento ante un cambio significativo en la
+composición de la dieta.
+Buena salud
+14.28. Para mantener el principio de buena salud, deben cumplimentarse los requisitos
+establecidos en el capítulo de Salud animal.
+14.29. El ganado con mayor riesgo (como animales recién ingresados, con antecedentes de
+lesiones o enfermedades, o confinados) requerirá una inspección más frecuente.
+14.30. Deben utilizarse técnicas indoloras, cuando esto no sea posible, deben emplearse métodos
+que prevengan o minimicen el dolor, con el asesoramiento veterinario correspondiente.
+14.31. Los procedimientos zootécnicos invasivos, como descorne y castración, se deben realizar
+con las máximas medidas de higiene y asepsia, bajo prácticas humanitarias realizadas por personal
+capacitado, causando el menor dolor y estrés posible al animal.
+14.32. Los animales enfermos y aquellos con impedimentos para desplazarse deben recibir trato
+especial por personal capacitado y tener acceso al agua y alimento sin restricciones, en
+instalaciones especialmente destinadas a ellos, hasta tanto el veterinario determine si su
+recuperación es posible o debe realizarse la eutanasia humanitaria. Los tratamientos, cuando sean
+factibles, deben implementarse con prontitud.
