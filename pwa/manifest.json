@@ -1,0 +1,69 @@
+{
+  "name": "BPG Consultas - Buenas Prácticas Ganaderas",
+  "short_name": "BPG Consultas",
+  "description": "Sistema de consultas sobre Buenas Prácticas Ganaderas. Funciona sin conexión para uso en el campo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f0",
+  "theme_color": "#2D5016",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "productivity",
+    "education",
+    "business"
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Nueva Consulta",
+      "short_name": "Consultar",
+      "description": "Hacer una nueva consulta BPG",
+      "url": "/pwa/#consulta",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Ver Historial",
+      "short_name": "Historial",
+      "description": "Ver consultas anteriores",
+      "url": "/pwa/#historial",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "share_target": {
+    "action": "/pwa/#share",
+    "method": "GET",
+    "params": {
+      "title": "title",
+      "text": "text"
+    }
+  },
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "lang": "es-AR",
+  "dir": "ltr"
+}
